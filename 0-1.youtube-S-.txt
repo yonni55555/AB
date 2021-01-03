@@ -1,0 +1,150 @@
+
+
+
+<item>
+<title>[COLOR ghostwhite][B]9 BALL CHAMPIONSHIPS[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PL9uJ4S02EhqQmj5nFcFqyiYbcXmEeLo5b/</jsonrpc>
+<thumbnail>https://www.homeleisuredirect.com/Assets/HLD/Images/Scott/PP4/9-ball-break.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]BASEBALL RADIO BROADCASTS[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLAlDA2cK3weTcC26mfDxP8RCVp5nGmS6q/</jsonrpc>
+<thumbnail>http://webiconspng.com/wp-content/uploads/2017/09/Radio-PNG-Image-95599.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]CLASSIC BOXING[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLt-2qvwrVlbr_1e_uMasHDhpUpHdwzUCa/</jsonrpc>
+<thumbnail>https://topclassboxing.files.wordpress.com/2017/06/ali-box-down.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]CLASSIC HOCKEY[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PL9qa1Jiw7oNLdXZGHOBl1rDPJcD6J4Ic6/</jsonrpc>
+<thumbnail>https://www.faustinahockey.com/wp-content/uploads/revslider/FullWidth/HouseLeague-banner1b.png?x83325</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]CLASSIC MLB GAMES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLIlIDjKXxx_Xm_yeGtu3444dw-DZQaoc3/</jsonrpc>
+<thumbnail>http://www.sportsinsomnia.com/cutgallery/renders/psd_1247547922.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]CLASSIC NASCAR RACES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLtc57NTUizP5Ipw3v7GXNaJd6mK6bd-kG/</jsonrpc>
+<thumbnail>https://cffnl.files.wordpress.com/2016/02/nascar-logo.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]CLASSIC NFL GAMES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLGTX0VXHAZql64NhPD7yAtZK3zWL_OF-z/</jsonrpc>
+<thumbnail>http://seanysports.yolasite.com/resources/10x1-NFL-3D-NFL-LettersOut.png.opt666x705o0,0s666x705.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]COLLEGE FOOTBALL GAMES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLSs7s9vid942mRuUd6d3VNCeTyZm6AYhT/</jsonrpc>
+<thumbnail>http://sportsbettingaid.com/wp-content/uploads/2016/10/college-football-2.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]DEMOLITION DERBY & DIRT TRACK RACING[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLFnqgwkTtEBT1ZztqztbUG4BnLHGPBNl4/</jsonrpc>
+<thumbnail>http://www.waynecountyfair.org/wp-content/uploads/2015/06/demo-derby-11.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]FULL SOCCER MATCHES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLnaYFo37eXKUvS-SkkgHbMiKxFky4J7IX/</jsonrpc>
+<thumbnail>http://socceralaska.com/wp-content/uploads/2016/11/coast-guard-1.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]GRAND PRIX MOTORCYCLE RACING[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLbMkBU453BVkShRyg5pJ4NgoruJwQmX4t/</jsonrpc>
+<thumbnail>http://z1035.com/wp-content/uploads/2016/07/RO_0483-Rob-OBrian-11.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]MOTORCYCLE RACING[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLbMkBU453BVkiBpuEwgIWwmmTyB5lSBaD/</jsonrpc>
+<thumbnail>http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-KTM-RC-125-Motorcycle-Bike-PNG-Image.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]NBA AND VARIOUS BASKETBALL GAMES[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLHgYPnOorp_-xYa7vq1-n8EcoxU0ffaKS/</jsonrpc>
+<thumbnail>https://media.contentapi.ea.com/content/dam/ea/easports/nbalive/home/2017/february/13/main-hero/nbalive-hero-fg-xs.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]ONE POCKET[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLQIFZZLcv4A5ghWxYmV6uv2cIAX6Kky_d/</jsonrpc>
+<thumbnail>http://www.billiardsexpert.com/images/contentsonepocket.jpg</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]PBA TOUR NATIONAL[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLDTiffisd78qVWejaScQRP2H01LDwY0ee/</jsonrpc>
+<thumbnail>https://www.bowlingproshop.ch/wp-content/uploads/2014/08/NOUVEAUTES1.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]PDC PREMIER LEAGUE DARTS[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PL86F031CA6B2BA7D7/</jsonrpc>
+<thumbnail>https://chairish-prod.global.ssl.fastly.net/image/product/master/2c64f1ff-bf37-4b63-b7a3-a0a55bf64b2a/vintage-regent-dart-board-7898</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]RAW SATELLITE FEEDS (AUTO RACING)[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLBq2VezL6Lchgh2jOs5TYLefh3FgYFEuV/</jsonrpc>
+<thumbnail>http://4.bp.blogspot.com/-BLTYzUM9QGQ/Tyvoy9Ei8GI/AAAAAAAAAYA/V2TeNkNmp04/s1600/Ferrari1.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]SPRINT CARS[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLoYr-FM-jHhSFMW4n_xIwoCiw_lH2ycvh/</jsonrpc>
+<thumbnail>http://www.pngmart.com/files/5/Sprint-Car-Racing-PNG-File.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]SUPER BOWLS & GREATEST GAMES OF ALL TIME![/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLRdw3IjKY2gljzUFGcwPcxF0jTM-GVcjc/</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Super_Bowl_logo.svg/494px-Super_Bowl_logo.svg.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR ghostwhite][B]UFC FIGHTS[/B][/COLOR]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLkoA185FDMCNHGjv8VKAlPiQo5XG15FG9/</jsonrpc>
+<thumbnail>https://www.gamestop.com/gs/ravecode/productpageimages/ea-sports-ufc_111958_111957/ufcfeaturepage_feature2_asset1.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</item>
+
+<dir>
+<name>[COLOR ghostwhite][B]WRESTLING CLASSICS[/B][/COLOR]</name>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/OddsnEnds/wrestling-classics.xml</jsonrpc>
+<thumbnail>http://www.allwrestlingsuperstars.com/wp-content/uploads/2016/11/Jeff-Hardy-Image.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</dir>
