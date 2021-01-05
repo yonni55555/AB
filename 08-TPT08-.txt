@@ -1,0 +1,20 @@
+<item>
+<title>[COLOR blue][COLOR deepskyblue]ממקור-1(בינונית)[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://cdn6.aptoide.com/imgs/8/9/2/8929386a1295ea3a46124aeea6d03840_icon.png</thumbnail><fanart>https://i.pinimg.com/originals/dd/81/f0/dd81f01962b7ba958a7fc870a9cae91c.jpg</fanart>
+<externallink>ֲֲֲhttps://github.com/yonni55555/AB/raw/main/07-LINIIPTV-07-.txt</externallink>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</item>
+
+<item>
+<title>[COLOR blue][COLOR deepskyblue]ממקור-2(ענקית)[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://cdn6.aptoide.com/imgs/8/9/2/8929386a1295ea3a46124aeea6d03840_icon.png</thumbnail><fanart>https://i.pinimg.com/originals/dd/81/f0/dd81f01962b7ba958a7fc870a9cae91c.jpg</fanart>
+<externallink>ֲֲֲhttps://github.com/yonni55555/AB/blob/main/05-IPTV-2-02-.txt?raw=true</externallink>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</item>
+
+<item>
+<title>[COLOR blue][COLOR deepskyblue]ממקור-3(קטנה)[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://cdn6.aptoide.com/imgs/8/9/2/8929386a1295ea3a46124aeea6d03840_icon.png</thumbnail><fanart>https://i.pinimg.com/originals/dd/81/f0/dd81f01962b7ba958a7fc870a9cae91c.jpg</fanart>
+<externallink>ֲֲֲhttps://github.com/yonni55555/AB/raw/main/06-MINIIPTV-06-.txt</externallink>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</item>
