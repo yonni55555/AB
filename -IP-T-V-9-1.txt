@@ -1,0 +1,293 @@
+
+
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1eb.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Afghanistan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/af.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Albania[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/al.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Algeria[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/dz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Andorra[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ad.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Argentina[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ar.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Armenia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/am.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fc.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Aruba[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/aw.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fa.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Australia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/au.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Austria[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/at.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Azerbaijan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/az.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bahamas[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bs.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bahrain[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bh.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bangladesh[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bd.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Barbados[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bb.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Belarus[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/by.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Belgium[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/be.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bolivia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bo.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bosnia and Herzegovina[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ba.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Brazil[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/br.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Brunei[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bn.m3u</externallink></item>
+
+<item><thumbnail>C:\Users\User\AppData\Roaming\Kodi\addons\script.tempest.artwork\resources\media\tempest\channels.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Foreign Channels">ActivateWindow(10025,"plugin://plugin.video.tempest/?action=foreignNavigator</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Bulgaria[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bg.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1eb.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Burkina Faso[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/bf.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Cambodia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kh.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Cameroon[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cm.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Canada[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ca.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Chile[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cl.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]China[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cn.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Colombia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/co.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Costa Rica[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Croatia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/hr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fc.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Curaçao[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cw.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Cyprus[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cy.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Czech Republic[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Democratic Republic of the Congo[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/cd.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Denmark[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/dk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Dominican Republic[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/do.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1e8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ecuador[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ec.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Egypt[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/eg.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fb.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]El Salvador[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sv.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Equatorial Guinea[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/gq.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Estonia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ee.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ethiopia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/et.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Faroe Islands[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/fo.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ee.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Finland[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/fi.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1ef.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Fiji[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/fj.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]France[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/fr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Gambia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/gm.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Georgia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ge.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Germany[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/de.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ghana[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/gh.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Greece[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/gr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1f5.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Guadeloupe[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/gp.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Haiti[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ht.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Honduras[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/hn.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Hong Kong[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/hk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1fa.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Hungary[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/hu.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Iceland[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/is.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]India[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/in.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Indonesia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/id.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]International[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/int.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Iran[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ir.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Iraq[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/iq.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ireland[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ie.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Israel[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/il.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Italy[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/it.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ee.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ivory Coast[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ci.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Jamaica[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/jm.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f5.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Japan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/jp.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Jordan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/jo.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Kazakhstan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fd-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Kosovo[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/xk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1fc.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Kuwait[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kw.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Kyrgyzstan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kg.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Laos[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/la.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fb.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Latvia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/lv.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1e7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Lebanon[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/lb.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Libya[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ly.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1ee.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Liechtenstein[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/li.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Lithuania[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/lt.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1fa.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Luxembourg[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/lu.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Macau[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mo.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Malaysia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/my.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Malta[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mt.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1fd.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Mexico[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mx.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Moldova[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/md.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Mongolia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mn.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Montenegro[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/me.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Morocco[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ma.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Mozambique[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Myanmar[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mm.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f5.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Nepal[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/np.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Netherlands[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/nl.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]New Zealand[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/nz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Nigeria[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ng.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f5.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]North Korea[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kp.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f2-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]North Macedonia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/mk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Norway[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/no.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f4-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Oman[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/om.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Pakistan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Palestine[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ps.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Panama[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pa.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Paraguay[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/py.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Peru[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pe.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Philippines[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ph.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Poland[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pl.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Portugal[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pt.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f5-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Puerto Rico[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/pr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f6-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Qatar[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/qa.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Romania[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ro.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fa.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Russia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ru.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Rwanda[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/rw.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Saudi Arabia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sa.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Serbia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/rs.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f1.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Sierra Leone[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sl.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Singapore[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sg.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Slovakia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ee.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Slovenia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/si.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f4.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Somalia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/so.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ff-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]South Africa[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/za.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]South Korea[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/kr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Spain[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/es.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f1-1f1f0.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Sri Lanka[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/lk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Sudan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sd.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Sweden[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/se.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Switzerland[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ch.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1fe.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Syria[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/sy.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1fc.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Taiwan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tw.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ef.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Tajikistan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tj.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Tanzania[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1ed.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Thailand[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/th.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f9.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Trinidad and Tobago[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tt.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Tunisia[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tn.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Turkey[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tr.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1f9-1f1f2.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Turkmenistan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/tm.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ec.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Uganda[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ug.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Ukraine[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ua.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]United Arab Emirates[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ae.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]United Kingdom[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/uk.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]United States[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/us.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1ff.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Uzbekistan[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/uz.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Venezuela[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ve.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Vietnam[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/vn.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1ee.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Virgin Islands of the United States[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/vi.m3u</externallink></item>
+
+<item><thumbnail>https://github.githubassets.com/images/icons/emoji/unicode/1f1fe-1f1ea.png</thumbnail><title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]Yemen[/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title><link>http://ignorame</link><externallink>https://iptv-org.github.io/iptv/countries/ye.m3u</externallink></item>
+
