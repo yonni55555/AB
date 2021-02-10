@@ -1,0 +1,411 @@
+
+
+http://s1.sratim.tv/movie/HD/720
+
+
+
+
+
+<item><title>[B][COLOR coral]צ'רלי וחצי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/3.mp4</link><thumbnail>http://static.sratim.tv/movies/3.jpg</thumbnail><genre>1974</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/10.mp4</link><thumbnail>http://static.sratim.tv/movies/10.png</thumbnail><genre>1978</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 2: יוצאים קבוע[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/11.mp4</link><thumbnail>http://static.sratim.tv/movies/11.jpg</thumbnail><genre>1979</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 3: שיפשוף נעים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/12.mp4</link><thumbnail>http://static.sratim.tv/movies/12.jpg</thumbnail><genre>1981</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 4: ספיחס[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/13.mp4</link><thumbnail>http://static.sratim.tv/movies/13.jpg</thumbnail><genre>1983</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 5: רומן זעיר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/14.mp4</link><thumbnail>http://static.sratim.tv/movies/14.jpg</thumbnail><genre>1984</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 6: הרימו עוגן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/15.mp4</link><thumbnail>http://static.sratim.tv/movies/15.jpg</thumbnail><genre>1985</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 7: אהבה צעירה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/16.mp4</link><thumbnail>http://static.sratim.tv/movies/16.jpg</thumbnail><genre>1987</genre></item>
+
+<item><title>[B][COLOR coral]גבעת חלפון אינה עונה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/18.mp4</link><thumbnail>http://static.sratim.tv/movies/18.jpg</thumbnail><genre>1976</genre></item>
+
+<item><title>[B][COLOR coral]חגיגה בסנוקר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/37.mp4</link><thumbnail>http://static.sratim.tv/movies/37.jpg</thumbnail><genre>1975</genre></item>
+
+<item><title>[B][COLOR coral]דליה והמלחים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/538.mp4</link><thumbnail>http://static.sratim.tv/movies/538.jpg</thumbnail><genre>1964</genre></item>
+
+<item><title>[B][COLOR coral]סאלח שבתי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/548.mp4</link><thumbnail>http://static.sratim.tv/movies/548.jpg</thumbnail><genre>1964</genre></item>
+
+<item><title>[B][COLOR coral]השוטר אזולאי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/550.mp4</link><thumbnail>http://static.sratim.tv/movies/550.jpg</thumbnail><genre>1971</genre></item>
+
+<item><title>[B][COLOR coral]איי לייק מייק[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/572.mp4</link><thumbnail>http://static.sratim.tv/movies/572.jpg</thumbnail><genre>1961</genre></item>
+
+<item><title>[B][COLOR coral]ואלס עם באשיר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/584.mp4</link><thumbnail>http://static.sratim.tv/movies/584.jpg</thumbnail><genre>2008</genre></item>
+
+<item><title>[B][COLOR coral]אבו אל בנאת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/631.mp4</link><thumbnail>http://static.sratim.tv/movies/631.jpg</thumbnail><genre>1973</genre></item>
+
+<item><title>[B][COLOR coral]אני אוהב אותך רוזה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/649.mp4</link><thumbnail>http://static.sratim.tv/movies/649.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]אלכס חולה אהבה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/685.mp4</link><thumbnail>http://static.sratim.tv/movies/685.jpg</thumbnail><genre>1986</genre></item>
+
+<item><title>[B][COLOR coral]מצלמה בלי בושה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/702.mp4</link><thumbnail>http://static.sratim.tv/movies/702.jpg</thumbnail><genre>1988</genre></item>
+
+<item><title>[B][COLOR coral]השועל בלול התרנגולות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/726.mp4</link><thumbnail>http://static.sratim.tv/movies/726.jpg</thumbnail><genre>1978</genre></item>
+
+<item><title>[B][COLOR coral]השכונה שלנו[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/840.mp4</link><thumbnail>http://static.sratim.tv/movies/840.jpg</thumbnail><genre>1968</genre></item>
+
+<item><title>[B][COLOR coral]בופור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/922.mp4</link><thumbnail>http://static.sratim.tv/movies/922.jpg</thumbnail><genre>2007</genre></item>
+
+<item><title>[B][COLOR coral]חור בלבנה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/929.mp4</link><thumbnail>http://static.sratim.tv/movies/929.jpg</thumbnail><genre>1964</genre></item>
+
+<item><title>[B][COLOR coral]איריס[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/930.mp4</link><thumbnail>http://static.sratim.tv/movies/930.jpg</thumbnail><genre>1968</genre></item>
+
+<item><title>[B][COLOR coral]מציצים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/938.mp4</link><thumbnail>http://static.sratim.tv/movies/938.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]ארבינקא[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1098.mp4</link><thumbnail>http://static.sratim.tv/movies/1098.jpg</thumbnail><genre>1967</genre></item>
+
+<item><title>[B][COLOR coral]דיזנגוף 99[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1108.mp4</link><thumbnail>http://static.sratim.tv/movies/1108.jpg</thumbnail><genre>1979</genre></item>
+
+<item><title>[B][COLOR coral]סיפור על אהבה וחושך[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1342.mp4</link><thumbnail>http://static.sratim.tv/movies/1342.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]היורד למעלה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1343.mp4</link><thumbnail>http://static.sratim.tv/movies/1343.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]אלאדין 2: שובו של ג'אפר מדובב[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1361.mp4</link><thumbnail>http://static.sratim.tv/movies/1361.jpg</thumbnail><genre>1994</genre></item>
+
+<item><title>[B][COLOR coral]אלאדין ומלך הגנבים מדובב[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1362.mp4</link><thumbnail>http://static.sratim.tv/movies/1362.jpg</thumbnail><genre>1996</genre></item>
+
+<item><title>[B][COLOR coral]חתולים על סירת פדלים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1372.mp4</link><thumbnail>http://static.sratim.tv/movies/1372.jpg</thumbnail><genre>2011</genre></item>
+
+<item><title>[B][COLOR coral]לא פה, לא שם[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1378.mp4</link><thumbnail>http://static.sratim.tv/movies/1378.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]השקר הגדול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1379.mp4</link><thumbnail>http://static.sratim.tv/movies/1379.jpg</thumbnail><genre>2012</genre></item>
+
+<item><title>[B][COLOR coral]נורית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1611.mp4</link><thumbnail>http://static.sratim.tv/movies/1611.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]מסג'יסט צמרת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1733.mp4</link><thumbnail>http://static.sratim.tv/movies/1733.jpg</thumbnail><genre>1981</genre></item>
+
+<item><title>[B][COLOR coral]מיליונר בצרות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1781.mp4</link><thumbnail>http://static.sratim.tv/movies/1781.jpg</thumbnail><genre>1978</genre></item>
+
+<item><title>[B][COLOR coral]המובטל בטיטו[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1786.mp4</link><thumbnail>http://static.sratim.tv/movies/1786.jpg</thumbnail><genre>1987</genre></item>
+
+<item><title>[B][COLOR coral]בוקר אחד ביוני[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1787.mp4</link><thumbnail>http://static.sratim.tv/movies/1787.png</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]חטיפה: קו 300[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1804.mp4</link><thumbnail>http://static.sratim.tv/movies/1804.jpg</thumbnail><genre>2018</genre></item>
+
+<item><title>[B][COLOR coral]אמור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1805.mp4</link><thumbnail>http://static.sratim.tv/movies/1805.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]קזבלן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1822.mp4</link><thumbnail>http://static.sratim.tv/movies/1822.jpg</thumbnail><genre>1973</genre></item>
+
+<item><title>[B][COLOR coral]מישהו לרוץ איתו[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1823.mp4</link><thumbnail>http://static.sratim.tv/movies/1823.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]מסתור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1825.mp4</link><thumbnail>http://static.sratim.tv/movies/1825.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]פרשת איה נאפה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1934.mp4</link><thumbnail>http://static.sratim.tv/movies/1934.jpg</thumbnail><genre>2019</genre></item>
+
+<item><title>[B][COLOR coral]הלומים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1954.mp4</link><thumbnail>http://static.sratim.tv/movies/1954.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]יוסי וג'אגר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/1987.mp4</link><thumbnail>http://static.sratim.tv/movies/1987.jpg</thumbnail><genre>2002</genre></item>
+
+<item><title>[B][COLOR coral]תיקון[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1988.mp4</link><thumbnail>http://static.sratim.tv/movies/1988.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]אהבה קולומביאנית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1989.mp4</link><thumbnail>http://static.sratim.tv/movies/1989.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]אבוללה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1995.mp4</link><thumbnail>http://static.sratim.tv/movies/1995.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]אמי הגנרלית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1996.mp4</link><thumbnail>http://static.sratim.tv/movies/1996.jpg</thumbnail><genre>1979</genre></item>
+
+<item><title>[B][COLOR coral]לאן נעלם דניאל וקס?[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/1999.mp4</link><thumbnail>http://static.sratim.tv/movies/1999.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]מבצע סבתא[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2001.mp4</link><thumbnail>http://static.sratim.tv/movies/2001.jpg</thumbnail><genre>1999</genre></item>
+
+<item><title>[B][COLOR coral]סרק סרק[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2020.mp4</link><thumbnail>http://static.sratim.tv/movies/2020.jpg</thumbnail><genre>2010</genre></item>
+
+<item><title>[B][COLOR coral]טיפת מזל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2021.mp4</link><thumbnail>http://static.sratim.tv/movies/2021.jpg</thumbnail><genre>1992</genre></item>
+
+<item><title>[B][COLOR coral]איזה יופי של צרות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2027.mp4</link><thumbnail>http://static.sratim.tv/movies/2027.jpg</thumbnail><genre>1976</genre></item>
+
+<item><title>[B][COLOR coral]הגונב מגנב פטור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2028.mp4</link><thumbnail>http://static.sratim.tv/movies/2028.jpg</thumbnail><genre>1977</genre></item>
+
+<item><title>[B][COLOR coral]ההמתנה לחיים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2029.mp4</link><thumbnail>http://static.sratim.tv/movies/2029.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]חתונה מאוחרת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2030.mp4</link><thumbnail>http://static.sratim.tv/movies/2030.jpg</thumbnail><genre>2001</genre></item>
+
+<item><title>[B][COLOR coral]משפחת צנעני[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2031.mp4</link><thumbnail>http://static.sratim.tv/movies/2031.jpg</thumbnail><genre>1976</genre></item>
+
+<item><title>[B][COLOR coral]צומת וולקן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2034.mp4</link><thumbnail>http://static.sratim.tv/movies/2034.jpg</thumbnail><genre>1999</genre></item>
+
+<item><title>[B][COLOR coral]עמק[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2036.mp4</link><thumbnail>http://static.sratim.tv/movies/2036.jpg</thumbnail><genre>2014</genre></item>
+
+<item><title>[B][COLOR coral]המשוטט[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2037.mp4</link><thumbnail>http://static.sratim.tv/movies/2037.jpg</thumbnail><genre>2010</genre></item>
+
+<item><title>[B][COLOR coral]חמש מאות אלף שחור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2045.mp4</link><thumbnail>http://static.sratim.tv/movies/2045.jpg</thumbnail><genre>1977</genre></item>
+
+<item><title>[B][COLOR coral]בובה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2049.mp4</link><thumbnail>http://static.sratim.tv/movies/2049.jpg</thumbnail><genre>1987</genre></item>
+
+<item><title>[B][COLOR coral]שרגא קטן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2050.mp4</link><thumbnail>http://static.sratim.tv/movies/2050.jpg</thumbnail><genre>1978</genre></item>
+
+<item><title>[B][COLOR coral]רק היום[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2051.mp4</link><thumbnail>http://static.sratim.tv/movies/2051.jpg</thumbnail><genre>1976</genre></item>
+
+<item><title>[B][COLOR coral]משכנתא[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2053.mp4</link><thumbnail>http://static.sratim.tv/movies/2053.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]ספר נשים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2056.mp4</link><thumbnail>http://static.sratim.tv/movies/2056.jpg</thumbnail><genre>1984</genre></item>
+
+<item><title>[B][COLOR coral]סבנה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2057.mp4</link><thumbnail>http://static.sratim.tv/movies/2057.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]סודות משפחה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2059.mp4</link><thumbnail>http://static.sratim.tv/movies/2059.jpg</thumbnail><genre>1997</genre></item>
+
+<item><title>[B][COLOR coral]משולם[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2060.mp4</link><thumbnail>http://static.sratim.tv/movies/2060.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]הצטמצמות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2061.mp4</link><thumbnail>http://static.sratim.tv/movies/2061.jpg</thumbnail><genre>1989</genre></item>
+
+<item><title>[B][COLOR coral]המשכנע בע''מ[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2062.mp4</link><thumbnail>http://static.sratim.tv/movies/2062.jpg</thumbnail><genre>1973</genre></item>
+
+<item><title>[B][COLOR coral]שלאגר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2068.mp4</link><thumbnail>http://static.sratim.tv/movies/2068.jpg</thumbnail><genre>1979</genre></item>
+
+<item><title>[B][COLOR coral]חידת לפיד[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2069.mp4</link><thumbnail>http://static.sratim.tv/movies/2069.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]שרית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2070.mp4</link><thumbnail>http://static.sratim.tv/movies/2070.jpg</thumbnail><genre>1974</genre></item>
+
+<item><title>[B][COLOR coral]התרנגול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2071.mp4</link><thumbnail>http://static.sratim.tv/movies/2071.jpg</thumbnail><genre>1971</genre></item>
+
+<item><title>[B][COLOR coral]זהר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2075.mp4</link><thumbnail>http://static.sratim.tv/movies/2075.jpg</thumbnail><genre>1993</genre></item>
+
+<item><title>[B][COLOR coral]הטוב הרע והלא נורא[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2076.mp4</link><thumbnail>http://static.sratim.tv/movies/2076.jpg</thumbnail><genre>1987</genre></item>
+
+<item><title>[B][COLOR coral]מבצע יונתן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2078.mp4</link><thumbnail>http://static.sratim.tv/movies/2078.jpg</thumbnail><genre>1977</genre></item>
+
+<item><title>[B][COLOR coral]סלמוניקו[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2079.mp4</link><thumbnail>http://static.sratim.tv/movies/2079.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]התפרצות איקס[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2080.mp4</link><thumbnail>http://static.sratim.tv/movies/2080.jpg</thumbnail><genre>2010</genre></item>
+
+<item><title>[B][COLOR coral]השגעון הגדול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2081.mp4</link><thumbnail>http://static.sratim.tv/movies/2081.jpg</thumbnail><genre>1986</genre></item>
+
+<item><title>[B][COLOR coral]עפולה אקספרס[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2082.mp4</link><thumbnail>http://static.sratim.tv/movies/2082.jpg</thumbnail><genre>1997</genre></item>
+
+<item><title>[B][COLOR coral]מתחת לאף[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2083.mp4</link><thumbnail>http://static.sratim.tv/movies/2083.jpg</thumbnail><genre>1982</genre></item>
+
+<item><title>[B][COLOR coral]נשיקה במצ''ח[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2088.mp4</link><thumbnail>http://static.sratim.tv/movies/2088.jpg</thumbnail><genre>1990</genre></item>
+
+<item><title>[B][COLOR coral]המשגיחים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2103.mp4</link><thumbnail>http://static.sratim.tv/movies/2103.jpg</thumbnail><genre>2012</genre></item>
+
+<item><title>[B][COLOR coral]חופשת קיץ[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2105.mp4</link><thumbnail>http://static.sratim.tv/movies/2105.jpg</thumbnail><genre>2007</genre></item>
+
+<item><title>[B][COLOR coral]המתנחלים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2107.mp4</link><thumbnail>http://static.sratim.tv/movies/2107.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]הפנטזיה הגדולה של סימיקו הקטן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2214.mp4</link><thumbnail>http://static.sratim.tv/movies/2214.jpg</thumbnail><genre>2011</genre></item>
+
+<item><title>[B][COLOR coral]הדקדוק הפנימי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2218.mp4</link><thumbnail>http://static.sratim.tv/movies/2218.jpg</thumbnail><genre>2010</genre></item>
+
+<item><title>[B][COLOR coral]כיכר החלומות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2224.mp4</link><thumbnail>http://static.sratim.tv/movies/2224.jpg</thumbnail><genre>2001</genre></item>
+
+<item><title>[B][COLOR coral]שבוע ויום[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2309.mp4</link><thumbnail>http://static.sratim.tv/movies/2309.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]תהילים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2394.mp4</link><thumbnail>http://static.sratim.tv/movies/2394.jpg</thumbnail><genre>2007</genre></item>
+
+<item><title>[B][COLOR coral]הנותנת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2396.mp4</link><thumbnail>http://static.sratim.tv/movies/2396.jpg</thumbnail><genre>2011</genre></item>
+
+<item><title>[B][COLOR coral]וסרמיל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2418.mp4</link><thumbnail>http://static.sratim.tv/movies/2418.jpg</thumbnail><genre>2007</genre></item>
+
+<item><title>[B][COLOR coral]מלחמות ישראל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2419.mp4</link><thumbnail>http://static.sratim.tv/movies/2419.jpg</thumbnail><genre>2005</genre></item>
+
+<item><title>[B][COLOR coral]אחותי כלה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2431.mp4</link><thumbnail>http://static.sratim.tv/movies/2431.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]אדמה משוגעת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2432.mp4</link><thumbnail>http://static.sratim.tv/movies/2432.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]אני יהודי הררי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2434.mp4</link><thumbnail>http://static.sratim.tv/movies/2434.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]בדרך לריו עוצרים באילת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2442.mp4</link><thumbnail>http://static.sratim.tv/movies/2442.png</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]בלדה לחובש[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2443.mp4</link><thumbnail>http://static.sratim.tv/movies/2443.png</thumbnail><genre>2018</genre></item>
+
+<item><title>[B][COLOR coral]אבינו[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2450.mp4</link><thumbnail>http://static.sratim.tv/movies/2450.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]עיניים כחולות עיניים חומות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2462.mp4</link><thumbnail>http://static.sratim.tv/movies/2462.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]הצד האפל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2468.mp4</link><thumbnail>http://static.sratim.tv/movies/2468.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]מוות בבאר שבע[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2470.mp4</link><thumbnail>http://static.sratim.tv/movies/2470.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]דימונה טוויסט[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2497.mp4</link><thumbnail>http://static.sratim.tv/movies/2497.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]דודי ורעי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2499.mp4</link><thumbnail>http://static.sratim.tv/movies/2499.jpg</thumbnail><genre>1975</genre></item>
+
+<item><title>[B][COLOR coral]איכן שפועם לבך[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2501.mp4</link><thumbnail>http://static.sratim.tv/movies/2501.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]אחד בשביל כולם[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2503.mp4</link><thumbnail>http://static.sratim.tv/movies/2503.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]אל תוך הרשת האפלה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2506.mp4</link><thumbnail>http://static.sratim.tv/movies/2506.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]עמק תפארת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2507.mp4</link><thumbnail>http://static.sratim.tv/movies/2507.jpg</thumbnail><genre>2011</genre></item>
+
+<item><title>[B][COLOR coral]חמש חמש[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2511.mp4</link><thumbnail>http://static.sratim.tv/movies/2511.jpg</thumbnail><genre>1980</genre></item>
+
+<item><title>[B][COLOR coral]לוויה בצהריים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2517.mp4</link><thumbnail>http://static.sratim.tv/movies/2517.jpg</thumbnail><genre>2013</genre></item>
+
+<item><title>[B][COLOR coral]גל הירש סיפור מלחמה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2518.mp4</link><thumbnail>http://static.sratim.tv/movies/2518.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]הבדיקה של החיים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2521.mp4</link><thumbnail>http://static.sratim.tv/movies/2521.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]הכבש השישה עשר - ערוץ הילדים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2522.mp4</link><thumbnail>http://static.sratim.tv/movies/2522.jpg</thumbnail><genre>1999</genre></item>
+
+<item><title>[B][COLOR coral]אבי לניר - הקרב האחרון[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2523.mp4</link><thumbnail>http://static.sratim.tv/movies/2523.png</thumbnail><genre>2005</genre></item>
+
+<item><title>[B][COLOR coral]הניצול האחרון - העדים האחרונים של סיפורי הגבורה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2524.mp4</link><thumbnail>http://static.sratim.tv/movies/2524.png</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]גיבורה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2525.mp4</link><thumbnail>http://static.sratim.tv/movies/2525.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]חידת ערן זהבי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2526.mp4</link><thumbnail>http://static.sratim.tv/movies/2526.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]חולות נודדים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2527.mp4</link><thumbnail>http://static.sratim.tv/movies/2527.png</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]חורבן ובית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2571.mp4</link><thumbnail>http://static.sratim.tv/movies/2571.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]אמא, אני רוצה להיות דוגמנית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2575.mp4</link><thumbnail>http://static.sratim.tv/movies/2575.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]אמי הגנרלית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2576.mp4</link><thumbnail>http://static.sratim.tv/movies/2576.jpg</thumbnail><genre>1979</genre></item>
+
+<item><title>[B][COLOR coral]ישראל בעיני סופריה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2578.mp4</link><thumbnail>http://static.sratim.tv/movies/2578.jpg</thumbnail><genre>2018</genre></item>
+
+<item><title>[B][COLOR coral]איסור ונגיעה - משדר מיוחד[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2579.mp4</link><thumbnail>http://static.sratim.tv/movies/2579.jpg</thumbnail><genre>2014</genre></item>
+
+<item><title>[B][COLOR coral]ג'ו + בל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2581.mp4</link><thumbnail>http://static.sratim.tv/movies/2581.jpg</thumbnail><genre>2011</genre></item>
+
+<item><title>[B][COLOR coral]מלך של קבצנים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2598.mp4</link><thumbnail>http://static.sratim.tv/movies/2598.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]לגדל את אבא ואמא[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2599.mp4</link><thumbnail>http://static.sratim.tv/movies/2599.png</thumbnail><genre>2012</genre></item>
+
+<item><title>[B][COLOR coral]מכתבים לאמריקה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2600.mp4</link><thumbnail>http://static.sratim.tv/movies/2600.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]לילך - החיים שאחרי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2601.mp4</link><thumbnail>http://static.sratim.tv/movies/2601.png</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]זוג יונים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2605.mp4</link><thumbnail>http://static.sratim.tv/movies/2605.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]מחלקה פתוחה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2606.mp4</link><thumbnail>http://static.sratim.tv/movies/2606.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]מסע האופניים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2611.mp4</link><thumbnail>http://static.sratim.tv/movies/2611.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]מסג'יסט הצמרת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2612.mp4</link><thumbnail>http://static.sratim.tv/movies/2612.jpg</thumbnail><genre>1981</genre></item>
+
+<item><title>[B][COLOR coral]מתנה משמיים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2613.mp4</link><thumbnail>http://static.sratim.tv/movies/2613.jpg</thumbnail><genre>2003</genre></item>
+
+<item><title>[B][COLOR coral]ניפגש בחוף[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2670.mp4</link><thumbnail>http://static.sratim.tv/movies/2670.jpg</thumbnail><genre>1987</genre></item>
+
+<item><title>[B][COLOR coral]האסונות של נינה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2672.mp4</link><thumbnail>http://static.sratim.tv/movies/2672.jpg</thumbnail><genre>2003</genre></item>
+
+<item><title>[B][COLOR coral]מבצע חתונה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2674.mp4</link><thumbnail>http://static.sratim.tv/movies/2674.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]אני לא מאמין, אני רובוט?![/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2675.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/he/0/01/%D7%90%D7%A0%D7%99_%D7%9C%D7%90_%D7%9E%D7%90%D7%9E%D7%99%D7%9F_%D7%90%D7%A0%D7%99_%D7%A8%D7%95%D7%91%D7%95%D7%98.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]טור אחד לחלום[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2676.mp4</link><thumbnail>http://static.sratim.tv/movies/2676.jpg</thumbnail><genre>2012</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 4.5 סבבה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2677.mp4</link><thumbnail>http://static.sratim.tv/movies/2677.jpg</thumbnail><genre>1983</genre></item>
+
+<item><title>[B][COLOR coral]עניינים אישיים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2687.mp4</link><thumbnail>http://static.sratim.tv/movies/2687.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]הנבל הכחול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2827.mp4</link><thumbnail>http://static.sratim.tv/movies/2827.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]חיילים ללא מדים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2828.mp4</link><thumbnail>http://static.sratim.tv/movies/2828.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]התערבות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2829.mp4</link><thumbnail>http://static.sratim.tv/movies/2829.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]חבר אמיתי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2830.mp4</link><thumbnail>http://static.sratim.tv/movies/2830.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]בורג משוחרר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2831.mp4</link><thumbnail>http://static.sratim.tv/movies/2831.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]טעות בחסד עליון[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2832.mp4</link><thumbnail>http://static.sratim.tv/movies/2832.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]הדב המרקד[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2833.mp4</link><thumbnail>http://static.sratim.tv/movies/2833.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]בלתי צפוי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2834.mp4</link><thumbnail>http://static.sratim.tv/movies/2834.jpg</thumbnail><genre>2005</genre></item>
+
+<item><title>[B][COLOR coral]אושפיזין[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2835.mp4</link><thumbnail>http://static.sratim.tv/movies/2835.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]עין טובה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2836.mp4</link><thumbnail>http://static.sratim.tv/movies/2836.jpg</thumbnail><genre>2005</genre></item>
+
+<item><title>[B][COLOR coral]ממעמקים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2837.mp4</link><thumbnail>http://static.sratim.tv/movies/2837.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]הצלקת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2838.mp4</link><thumbnail>http://static.sratim.tv/movies/2838.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]אופני הרעם[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/2839.mp4</link><thumbnail>http://static.sratim.tv/movies/2839.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]שדה מוקשים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2840.mp4</link><thumbnail>http://static.sratim.tv/movies/2840.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]דג מלוח[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2841.mp4</link><thumbnail>http://static.sratim.tv/movies/2841.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]לילה בגומחה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2842.mp4</link><thumbnail>http://static.sratim.tv/movies/2842.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]מלכודת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/2988.mp4</link><thumbnail>http://static.sratim.tv/movies/2988.jpg</thumbnail><genre>2004</genre></item>
+
+<item><title>[B][COLOR coral]עזית הכלבה הצנחנית[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/3044.mp4</link><thumbnail>http://static.sratim.tv/movies/3044.jpg</thumbnail><genre>1972</genre></item>
+
+<item><title>[B][COLOR coral]חסמבה ושודדי הסוסים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/3051.mp4</link><thumbnail>http://static.sratim.tv/movies/3051.jpg</thumbnail><genre>1985</genre></item>
+
+<item><title>[B][COLOR coral]חסמבה ונערי ההפקר[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/3052.mp4</link><thumbnail>http://static.sratim.tv/movies/3052.jpg</thumbnail><genre>1971</genre></item>
+
+<item><title>[B][COLOR coral]הבוגד הקטן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/3344.mp4</link><thumbnail>http://static.sratim.tv/movies/3344.jpg</thumbnail><genre>2007</genre></item>
+
+<item><title>[B][COLOR coral]הרפתקה בשחקים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/3419.mp4</link><thumbnail>http://static.sratim.tv/movies/3419.jpg</thumbnail><genre>2019</genre></item>
+
+<item><title>[B][COLOR coral]מסווג חריג[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/3586.mp4</link><thumbnail>http://static.sratim.tv/movies/3586.jpg</thumbnail><genre>2015</genre></item>
+
+<item><title>[B][COLOR coral]עוד לא אבדה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/4440.mp4</link><thumbnail>http://static.sratim.tv/movies/4440.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]מה נשתנה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/4473.mp4</link><thumbnail>http://static.sratim.tv/movies/4473.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]הנקמה היהודית 2: חטיפת אייכמן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/4689.mp4</link><thumbnail>http://static.sratim.tv/movies/4689.jpg</thumbnail><genre>2006</genre></item>
+
+<item><title>[B][COLOR coral]למלא את החלל[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/5263.mp4</link><thumbnail>http://static.sratim.tv/movies/5263.jpg</thumbnail><genre>2012</genre></item>
+
+<item><title>[B][COLOR coral]פלאות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/5459.mp4</link><thumbnail>http://static.sratim.tv/movies/5459.jpg</thumbnail><genre>2013</genre></item>
+
+<item><title>[B][COLOR coral]טהורה לעד[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/5613.mp4</link><thumbnail>http://static.sratim.tv/movies/5613.jpg</thumbnail><genre>2016</genre></item>
+
+<item><title>[B][COLOR coral]פוקסטרוט[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/5767.mp4</link><thumbnail>http://static.sratim.tv/movies/5767.png</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]מנשה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/5906.mp4</link><thumbnail>http://static.sratim.tv/movies/5906.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]גיבורות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6089.mp4</link><thumbnail>http://static.sratim.tv/movies/6089.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]חתונה הפוכה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6095.mp4</link><thumbnail>http://static.sratim.tv/movies/6095.jpg</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]מבודדים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6096.mp4</link><thumbnail>http://static.sratim.tv/movies/6096.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]ילדים על תנאי[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6098.mp4</link><thumbnail>http://static.sratim.tv/movies/6098.jpg</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]רצח בקולנוע צפון[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6141.mp4</link><thumbnail>http://static.sratim.tv/movies/6141.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]תחיה ותהיה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6224.mp4</link><thumbnail>http://static.sratim.tv/movies/6224.jpg</thumbnail><genre>2005</genre></item>
+
+<item><title>[B][COLOR coral]ימים נוראים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6259.mp4</link><thumbnail>http://static.sratim.tv/movies/6259.jpg</thumbnail><genre>2019</genre></item>
+
+<item><title>[B][COLOR coral]פרה אדומה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6414.mp4</link><thumbnail>http://static.sratim.tv/movies/6414.jpg</thumbnail><genre>2018</genre></item>
+
+<item><title>[B][COLOR coral]גשם בעיניים[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6822.mp4</link><thumbnail>http://static.sratim.tv/movies/6822.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]אנחנו המשפחה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/6823.mp4</link><thumbnail>http://static.sratim.tv/movies/6823.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]קוקו בן 19[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6825.mp4</link><thumbnail>http://static.sratim.tv/movies/6825.png</thumbnail><genre>1985</genre></item>
+
+<item><title>[B][COLOR coral]סיפור גדול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6826.mp4</link><thumbnail>http://static.sratim.tv/movies/6826.jpg</thumbnail><genre>2009</genre></item>
+
+<item><title>[B][COLOR coral]ערב הסטדנאפ הגדול[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6836.mp4</link><thumbnail>http://static.sratim.tv/movies/6836.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]ארבע אמהות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6837.mp4</link><thumbnail>http://static.sratim.tv/movies/6837.jpg</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]שיר ערש לעמק[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6839.mp4</link><thumbnail>http://static.sratim.tv/movies/6839.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]חיסול ממוקד באיראן[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6840.mp4</link><thumbnail>http://static.sratim.tv/movies/6840.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]אבא אתה כבר לא ילד[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6859.mp4</link><thumbnail>http://static.sratim.tv/movies/6859.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]גאולה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/6935.mp4</link><thumbnail>http://static.sratim.tv/movies/6935.jpg</thumbnail><genre>2018</genre></item>
+
+<item><title>[B][COLOR coral]הפנקס האדום[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/7194.mp4</link><thumbnail>http://static.sratim.tv/movies/7194.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]הקיץ של אביה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/7245.mp4</link><thumbnail>http://static.sratim.tv/movies/7245.jpg</thumbnail><genre>1988</genre></item>
+
+<item><title>[B][COLOR coral]לאה צמל עורכת דין[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/7348.mp4</link><thumbnail>http://static.sratim.tv/movies/7348.jpg</thumbnail><genre>2019</genre></item>
+
+<item><title>[B][COLOR coral]ריימונד אל בידאוויה[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/7355.mp4</link><thumbnail>http://static.sratim.tv/movies/7355.png</thumbnail><genre>2020</genre></item>
+
+<item><title>[B][COLOR coral]העדות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/7409.mp4</link><thumbnail>http://static.sratim.tv/movies/7409.jpg</thumbnail><genre>2017</genre></item>
+
+<item><title>[B][COLOR coral]אסקימו לימון 9: החגיגה נמשכת[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/7464.mp4</link><thumbnail>http://static.sratim.tv/movies/7464.jpg</thumbnail><genre>2001</genre></item>
+
+<item><title>[B][COLOR coral]סוכנת בלב ביירות[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/HD/720/7556.mp4</link><thumbnail>http://static.sratim.tv/movies/7556.png</thumbnail><genre>2021</genre></item>
+
+<item><title>[B][COLOR coral]בופור[/B][/COLOR]</title><link>http://s1.sratim.tv/movie/SD/480/7617.mp4</link><thumbnail>http://static.sratim.tv/movies/7617.jpg</thumbnail><genre>2007</genre></item>
