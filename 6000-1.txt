@@ -1,0 +1,44 @@
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]B]FREE ONE CLICK SECTION[/B][/COLOR][/COLOR]</name>
+<thumbnail>https://www.onlygfx.com/wp-content/uploads/2017/11/free-stamp-4-1024x1024.png</thumbnail><fanart>http://yesofcorsa.com/wp-content/uploads/2016/12/Cool-Wallpaper-UHD.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/2021index/oneclicksection.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]B]Asgard[/B][/COLOR][/COLOR]</name>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail><fanart>https://koditips.com/wp-content/uploads/asgard-kodi-1024x576.jpg</fanart>
+<link>http://narcacist.com/asg/main.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]Ghost[/B][/COLOR][/COLOR]</name>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost.png</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2.jpg</fanart>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/main2.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]UFC Replays[/B][/COLOR][/COLOR]</name>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ufc.png</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2.jpg</fanart>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/ufc1.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]Chains/Sinisters[/B][/COLOR][/COLOR]</name>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/chains.png</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2.jpg</fanart>
+<link>http://thechains24.com/broken%20chains/CHAINS%20MAINMENU.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]The Mad Titan[/B][/COLOR][/COLOR]</name>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/mad.jpg</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2.jpg</fanart>
+<link>http://magnetic.website/Mad%20Titan/main.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
