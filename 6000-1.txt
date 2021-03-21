@@ -1,0 +1,21 @@
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]FREE ONE CLICK SECTION[/B][/COLOR][/COLOR]</name>
+<thumbnail>https://www.onlygfx.com/wp-content/uploads/2017/11/free-stamp-4-1024x1024.png</thumbnail><fanart>http://yesofcorsa.com/wp-content/uploads/2016/12/Cool-Wallpaper-UHD.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/2021index/oneclicksection.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]MAGIC DRAGON[/B][/COLOR][/COLOR]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail><fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<link>https://raw.githubusercontent.com/tombebbs1/magicdragon/master/home.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]Asgard[/B][/COLOR][/COLOR]</name>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail><fanart>https://koditips.com/wp-content/uploads/asgard-kodi-1024x576.jpg</fanart>
+<link>http://narcacist.com/asg/main.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
