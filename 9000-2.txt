@@ -1,0 +1,1022 @@
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-(372) עמוד הבא [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://4.bp.blogspot.com/-gCEsod6obOo/Tlf4-88BY_I/AAAAAAAABLw/d9EfuMJ2vf4/s1600/blue-sillusion.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp3284238.png</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/------------------------AX-----------------------------01----------------.txt</link>
+<info>  סרטים בתרגום מובנה באיכות גבוהה...</info
+</dir>
+
+<item><link>plugin://plugin.video.CHICCO/?action=cat_level=%20&count=0&description&fanart=http%3a%2f%2fb2acpa.com%2f%7ebairdcpa%2fimages%2fTerminator.jpg&iconimage=http%3a%2f%2fngarba.xyz%2fadds%2fyos%2f8.jpg&index_depth=0&lang=%20&mode=6&name=%5bB%5d%5bCOLOR%20burlywood%5d%d7%a4%d7%95%d7%a9%5b%2fCOLOR%5d%5b%2fB%5d%5bB%5d%5bCOLOR%20aqua%5d%d7%97%d7%99%5b%2fCOLOR%5d%5b%2fB%5d&page&selected_list=%20&url=movie</link><thumbnail>http://static.sratim.tv/movies/34.jpg</thumbnail><title>[B][COLOR coral]חפש[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>
+
+
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/34.mp4</link><thumbnail>http://static.sratim.tv/movies/34.jpg</thumbnail><title>[B][COLOR coral]סאגת מפוצלים: נאמנים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Allegiant
+סאגת מפוצלים: נאמנים
+Allegiant
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/35.mp4</link><thumbnail>http://static.sratim.tv/movies/35.jpg</thumbnail><title>[B][COLOR coral]אנגרי בירדס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Angry Birds
+אנגרי בירדס
+Angry Birds
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/44.mp4</link><thumbnail>http://static.sratim.tv/movies/44.jpg</thumbnail><title>[B][COLOR coral]48 שעות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>48 Hrs.
+48 שעות
+48 Hrs.
+1982   <item><link>http://s1.sratim.tv/movie/HD/720/50.mp4</link><thumbnail>http://static.sratim.tv/movies/50.jpg</thumbnail><title>[B][COLOR coral]לילה בטירוף[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Game Night
+לילה בטירוף
+Game Night
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/53.mp4</link><thumbnail>http://static.sratim.tv/movies/53.jpg</thumbnail><title>[B][COLOR coral]פרא[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Rampage
+פרא
+Rampage
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/56.mp4</link><thumbnail>http://static.sratim.tv/movies/56.jpg</thumbnail><title>[B][COLOR coral]היחידה: פריז[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Antigang
+היחידה: פריז
+Antigang
+2015   <item><link>http://s1.sratim.tv/movie/HD/720/72.mp4</link><thumbnail>http://static.sratim.tv/movies/72.jpg</thumbnail><title>[B][COLOR coral]גניבה[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Larceny
+גניבה
+Larceny
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/79.mp4</link><thumbnail>http://static.sratim.tv/movies/79.jpg</thumbnail><title>[B][COLOR coral]רישיון להרוג[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Licence to Kill
+רישיון להרוג
+Licence to Kill
+1989   <item><link>http://s1.sratim.tv/movie/HD/720/86.mp4</link><thumbnail>http://static.sratim.tv/movies/86.jpg</thumbnail><title>[B][COLOR coral]אדון ומפקד: הצד הרחוק של העולם[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Master and Commander: The Far Side of the World
+אדון ומפקד: הצד הרחוק של העולם
+Master and Commander: The Far Side of the World
+2003   <item><link>http://s1.sratim.tv/movie/HD/720/103.mp4</link><thumbnail>http://static.sratim.tv/movies/103.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית: התרסקות[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Mission: Impossible: Fallout
+משימה בלתי אפשרית: התרסקות
+Mission: Impossible: Fallout
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/105.mp4</link><thumbnail>http://static.sratim.tv/movies/105.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: אחרוני הג'דיי[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode VIII - The Last Jedi
+מלחמת הכוכבים: אחרוני הג'דיי
+Star Wars: Episode VIII - The Last Jedi
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/107.mp4</link><thumbnail>http://static.sratim.tv/movies/107.jpg</thumbnail><title>[B][COLOR coral]שודדי הקאריביים: קללת הפנינה השחורה[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Pirates of the Caribbean: The Curse of the Black Pearl
+שודדי הקאריביים: קללת הפנינה השחורה
+Pirates of the Caribbean: The Curse of the Black Pearl
+2003   <item><link>http://s1.sratim.tv/movie/HD/720/116.mp4</link><thumbnail>http://static.sratim.tv/movies/116.jpg</thumbnail><title>[B][COLOR coral]6 ימים 7 לילות[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Six Days Seven Nights
+6 ימים 7 לילות
+Six Days Seven Nights
+1998   <item><link>http://s1.sratim.tv/movie/HD/720/119.mp4</link><thumbnail>http://static.sratim.tv/movies/119.jpg</thumbnail><title>[B][COLOR coral]שודדי הקאריביים: סוף העולם[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Pirates of the Caribbean: At World's End
+שודדי הקאריביים: סוף העולם
+Pirates of the Caribbean: At World's End
+2007   <item><link>http://s1.sratim.tv/movie/HD/720/121.mp4</link><thumbnail>http://static.sratim.tv/movies/121.jpg</thumbnail><title>[B][COLOR coral]הלנה מטרויה[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Helen of Troy
+הלנה מטרויה
+Helen of Troy
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/125.mp4</link><thumbnail>http://static.sratim.tv/movies/125.jpg</thumbnail><title>[B][COLOR coral]מרדף חכם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>S.M.A.R.T. Chase
+מרדף חכם
+S.M.A.R.T. Chase
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/129.mp4</link><thumbnail>http://static.sratim.tv/movies/129.jpg</thumbnail><title>[B][COLOR coral]ההר שבינינו[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Mountain Between Us
+ההר שבינינו
+The Mountain Between Us
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/137.mp4</link><thumbnail>http://static.sratim.tv/movies/137.jpg</thumbnail><title>[B][COLOR coral]טומב ריידר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Tomb Raider
+טומב ריידר
+Tomb Raider
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/139.mp4</link><thumbnail>http://static.sratim.tv/movies/139.jpg</thumbnail><title>[B][COLOR coral]הנחת 6: קרוב לבית[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Marine 6 Close Quarters
+הנחת 6: קרוב לבית
+The Marine 6 Close Quarters
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/152.mp4</link><thumbnail>http://static.sratim.tv/movies/152.jpg</thumbnail><title>[B][COLOR coral]קפטן תחתונים: הסרט - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain Underpants: The First Epic Movie
+קפטן תחתונים: הסרט - מדובב
+Captain Underpants: The First Epic Movie
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/155.mp4</link><thumbnail>http://static.sratim.tv/movies/155.jpg</thumbnail><title>[B][COLOR coral]6 גיבורים - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Big Hero 6
+6 גיבורים - מדובב
+Big Hero 6
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/156.mp4</link><thumbnail>http://static.sratim.tv/movies/156.jpg</thumbnail><title>[B][COLOR coral]לשבור את הקרח - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Frozen
+לשבור את הקרח - מדובב
+Frozen
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/179.mp4</link><thumbnail>http://static.sratim.tv/movies/179.jpg</thumbnail><title>[B][COLOR coral]אלפא[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Alpha
+אלפא
+Alpha
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/180.mp4</link><thumbnail>http://static.sratim.tv/movies/180.jpg</thumbnail><title>[B][COLOR coral]הטורף[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Predator
+הטורף
+The Predator
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/185.mp4</link><thumbnail>http://static.sratim.tv/movies/185.jpg</thumbnail><title>[B][COLOR coral]בני ערובה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Final Score
+בני ערובה
+Final Score
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/191.mp4</link><thumbnail>http://static.sratim.tv/movies/191.jpg</thumbnail><title>[B][COLOR coral]רחוב ג'אמפ 21[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>21 Jump Street
+רחוב ג'אמפ 21
+21 Jump Street
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/192.mp4</link><thumbnail>http://static.sratim.tv/movies/192.jpg</thumbnail><title>[B][COLOR coral]רחוב ג'אמפ 22[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>22 Jump Street
+רחוב ג'אמפ 22
+22 Jump Street
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/193.mp4</link><thumbnail>http://static.sratim.tv/movies/193.jpg</thumbnail><title>[B][COLOR coral]300: עלייתה של האימפריה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>300: Rise of an Empire
+300: עלייתה של האימפריה
+300: Rise of an Empire
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/195.mp4</link><thumbnail>http://static.sratim.tv/movies/195.jpg</thumbnail><title>[B][COLOR coral]300[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>300
+300
+300
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/199.mp4</link><thumbnail>http://static.sratim.tv/movies/199.jpg</thumbnail><title>[B][COLOR coral]הנוסע השמיני נגד הטורף 2: רקוויאם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Aliens vs. Predator: Requiem
+הנוסע השמיני נגד הטורף 2: רקוויאם
+Aliens vs. Predator: Requiem
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/203.mp4</link><thumbnail>http://static.sratim.tv/movies/203.jpg</thumbnail><title>[B][COLOR coral]משפחת סופר על 2 - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>משפחת סופר על 2 - מדובב
+משפחת סופר על 2 - מדובב
+משפחת סופר על 2 - מדובב
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/204.mp4</link><thumbnail>http://static.sratim.tv/movies/204.jpg</thumbnail><title>[B][COLOR coral]כוח הטיטאנים! חיים בסרט - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Teen Titans Go! To the Movies
+כוח הטיטאנים! חיים בסרט - מדובב
+Teen Titans Go! To the Movies
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/206.mp4</link><thumbnail>http://static.sratim.tv/movies/206.jpg</thumbnail><title>[B][COLOR coral]אנטמן והצרעה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Ant-Man and the Wasp
+אנטמן והצרעה
+Ant-Man and the Wasp
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/211.mp4</link><thumbnail>http://static.sratim.tv/movies/211.jpg</thumbnail><title>[B][COLOR coral]האביר האפל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Dark Knight
+האביר האפל
+The Dark Knight
+2008   <item><link>http://s1.sratim.tv/movie/HD/720/217.mp4</link><thumbnail>http://static.sratim.tv/movies/217.jpg</thumbnail><title>[B][COLOR coral] שודדי הקאריביים: תיבה של איש מת[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Pirates of the Caribbean: Dead Man's Chest
+שודדי הקאריביים: תיבה של איש מת
+Pirates of the Caribbean: Dead Man's Chest
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/220.mp4</link><thumbnail>http://static.sratim.tv/movies/220.jpg</thumbnail><title>[B][COLOR coral]באטמן נגד סופרמן: שחר הצדק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Batman v Superman: Dawn of Justice
+באטמן נגד סופרמן: שחר הצדק
+Batman v Superman: Dawn of Justice
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/221.mp4</link><thumbnail>http://static.sratim.tv/movies/221.jpg</thumbnail><title>[B][COLOR coral]קפטן אמריקה: גיבור העל הראשון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain America: The First Avenger
+קפטן אמריקה: גיבור העל הראשון
+Captain America: The First Avenger
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/222.mp4</link><thumbnail>http://static.sratim.tv/movies/222.jpg</thumbnail><title>[B][COLOR coral]קפטן אמריקה: חייל החורף[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain America: The Winter Soldier
+קפטן אמריקה: חייל החורף
+Captain America: The Winter Soldier
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/223.mp4</link><thumbnail>http://static.sratim.tv/movies/223.jpg</thumbnail><title>[B][COLOR coral]קפטן אמריקה: מלחמת האזרחים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain America: Civil War
+קפטן אמריקה: מלחמת האזרחים
+Captain America: Civil War
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/238.mp4</link><thumbnail>http://static.sratim.tv/movies/238.jpg</thumbnail><title>[B][COLOR coral]מואנה - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Moana
+מואנה - מדובב
+Moana
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/247.mp4</link><thumbnail>http://static.sratim.tv/movies/247.jpg</thumbnail><title>[B][COLOR coral]טרולים - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Trolls
+טרולים - מדובב
+Trolls
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/265.mp4</link><thumbnail>http://static.sratim.tv/movies/265.jpg</thumbnail><title>[B][COLOR coral]משפחת סופר-על - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Incredibles
+משפחת סופר-על - מדובב
+The Incredibles
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/266.mp4</link><thumbnail>http://static.sratim.tv/movies/266.jpg</thumbnail><title>[B][COLOR coral]משפחת סופר-על[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Incredibles
+משפחת סופר-על
+The Incredibles
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/271.mp4</link><thumbnail>http://static.sratim.tv/movies/271.jpg</thumbnail><title>[B][COLOR coral]אושן 8[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Ocean's Eight
+אושן 8
+Ocean's Eight
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/276.mp4</link><thumbnail>http://static.sratim.tv/movies/276.jpg</thumbnail><title>[B][COLOR coral]גנוב על העולם 3 - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Despicable Me 3
+גנוב על העולם 3 - מדובב
+Despicable Me 3
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/282.mp4</link><thumbnail>http://static.sratim.tv/movies/282.jpg</thumbnail><title>[B][COLOR coral]הענק הירוק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Incredible Hulk
+הענק הירוק
+The Incredible Hulk
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/285.mp4</link><thumbnail>http://static.sratim.tv/movies/285.jpg</thumbnail><title>[B][COLOR coral]אנטמן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Ant-Man
+אנטמן
+Ant-Man
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/286.mp4</link><thumbnail>http://static.sratim.tv/movies/286.jpg</thumbnail><title>[B][COLOR coral]החבילה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Package
+החבילה
+The Package
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/302.mp4</link><thumbnail>http://static.sratim.tv/movies/302.jpg</thumbnail><title>[B][COLOR coral]גברים בשחור 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Men in Black II
+גברים בשחור 2
+Men in Black II
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/303.mp4</link><thumbnail>http://static.sratim.tv/movies/303.jpg</thumbnail><title>[B][COLOR coral]גברים בשחור 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Men in Black 3 
+גברים בשחור 3
+Men in Black 3
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/310.mp4</link><thumbnail>http://static.sratim.tv/movies/310.jpg</thumbnail><title>[B][COLOR coral]חטופות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Acts of Violence
+חטופות
+Acts of Violence
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/318.mp4</link><thumbnail>http://static.sratim.tv/movies/318.jpg</thumbnail><title>[B][COLOR coral]קפטן פיליפס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain Phillips
+קפטן פיליפס
+Captain Phillips
+2013   <item><link>http://s1.sratim.tv/movie/HD/720/322.mp4</link><thumbnail>http://static.sratim.tv/movies/322.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Mission: Impossible II
+משימה בלתי אפשרית 2
+Mission: Impossible II
+2000   <item><link>http://s1.sratim.tv/movie/HD/720/323.mp4</link><thumbnail>http://static.sratim.tv/movies/323.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Not Available
+משימה בלתי אפשרית
+Not Available
+1996   <item><link>http://s1.sratim.tv/movie/HD/1080/326.mp4</link><thumbnail>http://static.sratim.tv/movies/326.jpg</thumbnail><title>[B][COLOR coral]מחוז 9[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>District 9
+מחוז 9
+District 9
+2009   <item><link>http://s1.sratim.tv/movie/HD/720/327.mp4</link><thumbnail>http://static.sratim.tv/movies/327.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Mission: Impossible III
+משימה בלתי אפשרית 3
+Mission: Impossible III
+2006   <item><link>http://s1.sratim.tv/movie/HD/720/328.mp4</link><thumbnail>http://static.sratim.tv/movies/328.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית 4: קוד הצללים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Mission: Impossible - Ghost Protocol
+משימה בלתי אפשרית 4: קוד הצללים
+Mission: Impossible - Ghost Protocol
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/330.mp4</link><thumbnail>http://static.sratim.tv/movies/330.jpg</thumbnail><title>[B][COLOR coral]ג'וני אינגליש[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Johnny English
+ג'וני אינגליש
+Johnny English
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/333.mp4</link><thumbnail>http://static.sratim.tv/movies/333.jpg</thumbnail><title>[B][COLOR coral]תרגיל לשוטרים מתחילים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>CHIPS
+תרגיל לשוטרים מתחילים
+CHIPS
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/335.mp4</link><thumbnail>http://static.sratim.tv/movies/335.jpg</thumbnail><title>[B][COLOR coral]שר הטבעות: אחוות הטבעת[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Lord of the Rings: The Fellowship of the Ring
+שר הטבעות: אחוות הטבעת
+The Lord of the Rings: The Fellowship of the Ring
+2001   <item><link>http://s1.sratim.tv/movie/HD/720/336.mp4</link><thumbnail>http://static.sratim.tv/movies/336.jpg</thumbnail><title>[B][COLOR coral]שר הטבעות: שני הצריחים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Lord of the Rings: The Two Towers
+שר הטבעות: שני הצריחים
+The Lord of the Rings: The Two Towers
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/338.mp4</link><thumbnail>http://static.sratim.tv/movies/338.jpg</thumbnail><title>[B][COLOR coral]תרגיל לשוטרים מתחילים 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Police Academy 2: Their First Assignment
+תרגיל לשוטרים מתחילים 2
+Police Academy 2: Their First Assignment
+1985   <item><link>http://s1.sratim.tv/movie/HD/1080/340.mp4</link><thumbnail>http://static.sratim.tv/movies/340.jpg</thumbnail><title>[B][COLOR coral]תרגיל לשוטרים מתחילים 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Police Academy 3: Back in Training
+תרגיל לשוטרים מתחילים 3
+Police Academy 3: Back in Training
+1986   <item><link>http://s1.sratim.tv/movie/HD/1080/341.mp4</link><thumbnail>http://static.sratim.tv/movies/341.jpg</thumbnail><title>[B][COLOR coral]תרגיל לשוטרים מתחילים 4[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Police Academy 4: Citizens on Patrol
+תרגיל לשוטרים מתחילים 4
+Police Academy 4: Citizens on Patrol
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/342.mp4</link><thumbnail>http://static.sratim.tv/movies/342.jpg</thumbnail><title>[B][COLOR coral]תרגיל לשוטרים מתחילים 5[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Police Academy 5: Assignment: Miami Beach
+תרגיל לשוטרים מתחילים 5
+Police Academy 5: Assignment: Miami Beach
+1988   <item><link>http://s1.sratim.tv/movie/HD/1080/356.mp4</link><thumbnail>http://static.sratim.tv/movies/356.jpg</thumbnail><title>[B][COLOR coral]בייבי דרייבר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Baby Driver
+בייבי דרייבר
+Baby Driver
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/362.mp4</link><thumbnail>http://static.sratim.tv/movies/362.jpg</thumbnail><title>[B][COLOR coral]ונום[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Venom
+ונום
+Venom
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/365.mp4</link><thumbnail>http://static.sratim.tv/movies/365.jpg</thumbnail><title>[B][COLOR coral]סולו: סיפור מלחמת הכוכבים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Solo: A Star Wars Story 
+סולו: סיפור מלחמת הכוכבים
+Solo: A Star Wars Story
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/368.mp4</link><thumbnail>http://static.sratim.tv/movies/368.jpg</thumbnail><title>[B][COLOR coral]רוג אחת: סיפור מלחמת הכוכבים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Rogue One
+רוג אחת: סיפור מלחמת הכוכבים
+Rogue One
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/369.mp4</link><thumbnail>http://static.sratim.tv/movies/369.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 7 - הכוח מתעורר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode VII - The Force Awakens
+מלחמת הכוכבים: פרק 7 - הכוח מתעורר
+Star Wars: Episode VII - The Force Awakens
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/374.mp4</link><thumbnail>http://static.sratim.tv/movies/374.jpg</thumbnail><title>[B][COLOR coral]הנוקמים: עידן אולטרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Avengers: Age of Ultron
+הנוקמים: עידן אולטרון
+Avengers: Age of Ultron
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/375.mp4</link><thumbnail>http://static.sratim.tv/movies/375.jpg</thumbnail><title>[B][COLOR coral]השוטר מבברלי הילס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Beverly Hills Cop
+השוטר מבברלי הילס
+Beverly Hills Cop
+1984   <item><link>http://s1.sratim.tv/movie/HD/1080/376.mp4</link><thumbnail>http://static.sratim.tv/movies/376.jpg</thumbnail><title>[B][COLOR coral]השוטר מבברלי הילס 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Beverly Hills Cop II
+השוטר מבברלי הילס 2
+Beverly Hills Cop II
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/377.mp4</link><thumbnail>http://static.sratim.tv/movies/377.jpg</thumbnail><title>[B][COLOR coral]השוטר מבברלי הילס 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Beverly Hills Cop III
+השוטר מבברלי הילס 3
+Beverly Hills Cop III
+1994   <item><link>http://s1.sratim.tv/movie/HD/720/381.mp4</link><thumbnail>http://static.sratim.tv/movies/381.jpg</thumbnail><title>[B][COLOR coral]דאבל אימפקט[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Double Impact
+דאבל אימפקט
+Double Impact
+1991   <item><link>http://s1.sratim.tv/movie/HD/1080/383.mp4</link><thumbnail>http://static.sratim.tv/movies/383.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 1 - אימת הפאנטום[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode I - The Phantom Menace
+מלחמת הכוכבים: פרק 1 - אימת הפאנטום
+Star Wars: Episode I - The Phantom Menace
+1999   <item><link>http://s1.sratim.tv/movie/HD/1080/384.mp4</link><thumbnail>http://static.sratim.tv/movies/384.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 2 - מתקפת המשובטים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode II - Attack of the Clones
+מלחמת הכוכבים: פרק 2 - מתקפת המשובטים
+Star Wars: Episode II - Attack of the Clones
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/385.mp4</link><thumbnail>http://static.sratim.tv/movies/385.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 3 - נקמת הסית'[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode III - Revenge of the Sith
+מלחמת הכוכבים: פרק 3 - נקמת הסית'
+Star Wars: Episode III - Revenge of the Sith
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/386.mp4</link><thumbnail>http://static.sratim.tv/movies/386.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 4 - תקווה חדשה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode IV - A New Hope
+מלחמת הכוכבים: פרק 4 - תקווה חדשה
+Star Wars: Episode IV - A New Hope
+1977   <item><link>http://s1.sratim.tv/movie/HD/1080/387.mp4</link><thumbnail>http://static.sratim.tv/movies/387.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 5 - האימפריה מכה שנית[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode V - The Empire Strikes Back
+מלחמת הכוכבים: פרק 5 - האימפריה מכה שנית
+Star Wars: Episode V - The Empire Strikes Back
+1980   <item><link>http://s1.sratim.tv/movie/HD/1080/388.mp4</link><thumbnail>http://static.sratim.tv/movies/388.jpg</thumbnail><title>[B][COLOR coral]מלחמת הכוכבים: פרק 6 - שובו של הג'דיי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Star Wars: Episode VI - Return of the Jedi
+מלחמת הכוכבים: פרק 6 - שובו של הג'דיי
+Star Wars: Episode VI - Return of the Jedi
+1983   <item><link>http://s1.sratim.tv/movie/HD/1080/390.mp4</link><thumbnail>http://static.sratim.tv/movies/390.jpg</thumbnail><title>[B][COLOR coral]דנקרק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Dunkirk
+דנקרק
+Dunkirk
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/391.mp4</link><thumbnail>http://static.sratim.tv/movies/391.jpg</thumbnail><title>[B][COLOR coral]דדפול[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Deadpool
+דדפול
+Deadpool
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/392.mp4</link><thumbnail>http://static.sratim.tv/movies/392.jpg</thumbnail><title>[B][COLOR coral]דדפול 2 הגרסה המורחבת[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Deadpool 2  extended cut
+דדפול 2 הגרסה המורחבת
+Deadpool 2 extended cut
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/393.mp4</link><thumbnail>http://static.sratim.tv/movies/393.jpg</thumbnail><title>[B][COLOR coral]לוגאן: וולברין[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Logan
+לוגאן: וולברין
+Logan
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/395.mp4</link><thumbnail>http://static.sratim.tv/movies/395.jpg</thumbnail><title>[B][COLOR coral]וונדר וומן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Wonder Woman
+וונדר וומן
+Wonder Woman
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/396.mp4</link><thumbnail>http://static.sratim.tv/movies/396.jpg</thumbnail><title>[B][COLOR coral]יחידת המתאבדים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Suicide Squad
+יחידת המתאבדים
+Suicide Squad
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/397.mp4</link><thumbnail>http://static.sratim.tv/movies/397.jpg</thumbnail><title>[B][COLOR coral]מקס הזועם 3: כיפת הרעם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mad Max Beyond Thunderdome
+מקס הזועם 3: כיפת הרעם
+Mad Max Beyond Thunderdome
+1985   <item><link>http://s1.sratim.tv/movie/HD/1080/398.mp4</link><thumbnail>http://static.sratim.tv/movies/398.jpg</thumbnail><title>[B][COLOR coral]מקס הזועם 2: הלוחם בדרכים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mad Max 2: The Road Warrior
+מקס הזועם 2: הלוחם בדרכים
+Mad Max 2: The Road Warrior
+1981   <item><link>http://s1.sratim.tv/movie/HD/1080/399.mp4</link><thumbnail>http://static.sratim.tv/movies/399.jpg</thumbnail><title>[B][COLOR coral]תכנית בריחה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Escape Plan
+תכנית בריחה
+Escape Plan
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/400.mp4</link><thumbnail>http://static.sratim.tv/movies/400.jpg</thumbnail><title>[B][COLOR coral]תוכנית בריחה 2: הגיהנום[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Escape Plan 2: Hades
+תוכנית בריחה 2: הגיהנום
+Escape Plan 2: Hades
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/402.mp4</link><thumbnail>http://static.sratim.tv/movies/402.jpg</thumbnail><title>[B][COLOR coral]מקס הזועם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mad Max
+מקס הזועם
+Mad Max
+1979   <item><link>http://s1.sratim.tv/movie/HD/1080/404.mp4</link><thumbnail>http://static.sratim.tv/movies/404.jpg</thumbnail><title>[B][COLOR coral]איירון מן 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Iron Man 2
+איירון מן 2
+Iron Man 2
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/405.mp4</link><thumbnail>http://static.sratim.tv/movies/405.jpg</thumbnail><title>[B][COLOR coral]איירון מן 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Iron Man 3
+איירון מן 3
+Iron Man 3
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/407.mp4</link><thumbnail>http://static.sratim.tv/movies/407.jpg</thumbnail><title>[B][COLOR coral]תור[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Thor
+תור
+Thor
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/408.mp4</link><thumbnail>http://static.sratim.tv/movies/408.jpg</thumbnail><title>[B][COLOR coral]תור: העולם האפל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Thor: The Dark World
+תור: העולם האפל
+Thor: The Dark World
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/409.mp4</link><thumbnail>http://static.sratim.tv/movies/409.jpg</thumbnail><title>[B][COLOR coral]תור: ראגנארוק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Thor: Ragnarok
+תור: ראגנארוק
+Thor: Ragnarok
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/410.mp4</link><thumbnail>http://static.sratim.tv/movies/410.jpg</thumbnail><title>[B][COLOR coral]דוקטור סטריינג'[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Doctor Strange
+דוקטור סטריינג'
+Doctor Strange
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/411.mp4</link><thumbnail>http://static.sratim.tv/movies/411.jpg</thumbnail><title>[B][COLOR coral]שומרי הגלקסיה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Guardians of the Galaxy
+שומרי הגלקסיה
+Guardians of the Galaxy
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/412.mp4</link><thumbnail>http://static.sratim.tv/movies/412.jpg</thumbnail><title>[B][COLOR coral]הפנתר השחור[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Black Panther
+הפנתר השחור
+Black Panther
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/415.mp4</link><thumbnail>http://static.sratim.tv/movies/415.jpg</thumbnail><title>[B][COLOR coral]האיש בעל אקדח הזהב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Man with the Golden Gun
+האיש בעל אקדח הזהב
+The Man with the Golden Gun
+1974   <item><link>http://s1.sratim.tv/movie/HD/1080/419.mp4</link><thumbnail>http://static.sratim.tv/movies/419.jpg</thumbnail><title>[B][COLOR coral]ספיידרמן: השיבה הביתה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Spider-Man: Homecoming
+ספיידרמן: השיבה הביתה
+Spider-Man: Homecoming
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/420.mp4</link><thumbnail>http://static.sratim.tv/movies/420.jpg</thumbnail><title>[B][COLOR coral]משימה בלתי אפשרית: אומת הנוכלים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mission: Impossible - Rogue Nation
+משימה בלתי אפשרית: אומת הנוכלים
+Mission: Impossible - Rogue Nation
+2015   <item><link>http://s1.sratim.tv/movie/HD/720/422.mp4</link><thumbnail>http://static.sratim.tv/movies/422.jpg</thumbnail><title>[B][COLOR coral]אוצר לאומי 2: ספר הסודות[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>National Treasure: Book of Secrets
+אוצר לאומי 2: ספר הסודות
+National Treasure: Book of Secrets
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/430.mp4</link><thumbnail>http://static.sratim.tv/movies/430.jpg</thumbnail><title>[B][COLOR coral]להציל את טוראי ראיין[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Saving Private Ryan
+להציל את טוראי ראיין
+Saving Private Ryan
+1998   <item><link>http://s1.sratim.tv/movie/HD/1080/441.mp4</link><thumbnail>http://static.sratim.tv/movies/441.jpg</thumbnail><title>[B][COLOR coral]נקודת שוויון 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Equalizer 2
+נקודת שוויון 2
+The Equalizer 2
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/442.mp4</link><thumbnail>http://static.sratim.tv/movies/442.jpg</thumbnail><title>[B][COLOR coral]עולם היורה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jurassic World
+עולם היורה
+Jurassic World
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/444.mp4</link><thumbnail>http://static.sratim.tv/movies/444.jpg</thumbnail><title>[B][COLOR coral]הנוקמים: מלחמת האינסוף[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Avengers: Infinity War
+הנוקמים: מלחמת האינסוף
+Avengers: Infinity War
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/447.mp4</link><thumbnail>http://static.sratim.tv/movies/447.jpg</thumbnail><title>[B][COLOR coral]הארי פוטר וגביע האש[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Harry Potter and the Goblet of Fire
+הארי פוטר וגביע האש
+Harry Potter and the Goblet of Fire
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/448.mp4</link><thumbnail>http://static.sratim.tv/movies/448.jpg</thumbnail><title>[B][COLOR coral]באטמן מתחיל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Batman Begins
+באטמן מתחיל
+Batman Begins
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/456.mp4</link><thumbnail>http://static.sratim.tv/movies/456.jpg</thumbnail><title>[B][COLOR coral]גודזילה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Godzilla
+גודזילה
+Godzilla
+2014   <item><link>http://s1.sratim.tv/movie/HD/720/459.mp4</link><thumbnail>http://static.sratim.tv/movies/459.jpg</thumbnail><title>[B][COLOR coral]המרדף אחר אוקטובר האדום[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Hunt for Red October
+המרדף אחר אוקטובר האדום
+The Hunt for Red October
+1990   <item><link>http://s1.sratim.tv/movie/HD/1080/460.mp4</link><thumbnail>http://static.sratim.tv/movies/460.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Fast and the Furious
+מהיר ועצבני
+The Fast and the Furious
+2001   <item><link>http://s1.sratim.tv/movie/HD/1080/461.mp4</link><thumbnail>http://static.sratim.tv/movies/461.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>2 Fast 2 Furious
+מהיר ועצבני 2
+2 Fast 2 Furious
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/462.mp4</link><thumbnail>http://static.sratim.tv/movies/462.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 3: טוקיו דריפט[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Fast and the Furious: Tokyo Drift
+מהיר ועצבני 3: טוקיו דריפט
+The Fast and the Furious: Tokyo Drift
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/463.mp4</link><thumbnail>http://static.sratim.tv/movies/463.jpg</thumbnail><title>[B][COLOR coral]התחלה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Inception
+התחלה
+Inception
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/465.mp4</link><thumbnail>http://static.sratim.tv/movies/465.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 4[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Fast & Furious
+מהיר ועצבני 4
+Fast & Furious
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/466.mp4</link><thumbnail>http://static.sratim.tv/movies/466.jpg</thumbnail><title>[B][COLOR coral]עם רדת ליל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Night Comes for Us
+עם רדת ליל
+The Night Comes for Us
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/468.mp4</link><thumbnail>http://static.sratim.tv/movies/468.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 5[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Fast Five
+מהיר ועצבני 5
+Fast Five
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/469.mp4</link><thumbnail>http://static.sratim.tv/movies/469.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 6[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Fast & Furious 6
+מהיר ועצבני 6
+Fast & Furious 6
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/471.mp4</link><thumbnail>http://static.sratim.tv/movies/471.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 7[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Furious Seven
+מהיר ועצבני 7
+Furious Seven
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/472.mp4</link><thumbnail>http://static.sratim.tv/movies/472.jpg</thumbnail><title>[B][COLOR coral]מהיר ועצבני 8[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Fate of the Furious
+מהיר ועצבני 8
+The Fate of the Furious
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/475.mp4</link><thumbnail>http://static.sratim.tv/movies/475.jpg</thumbnail><title>[B][COLOR coral]הדוור[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Postman
+הדוור
+The Postman
+1997   <item><link>http://s1.sratim.tv/movie/HD/1080/476.mp4</link><thumbnail>http://static.sratim.tv/movies/476.jpg</thumbnail><title>[B][COLOR coral]עולם היורה: נפילת הממלכה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jurassic World: Fallen Kingdom
+עולם היורה: נפילת הממלכה
+Jurassic World: Fallen Kingdom
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/477.mp4</link><thumbnail>http://static.sratim.tv/movies/477.jpg</thumbnail><title>[B][COLOR coral]להרוג את ביל: חלק א'[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kill Bill: Vol. 1
+להרוג את ביל: חלק א'
+Kill Bill: Vol. 1
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/478.mp4</link><thumbnail>http://static.sratim.tv/movies/478.jpg</thumbnail><title>[B][COLOR coral]להרוג את ביל: חלק ב'[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kill Bill: Vol. 2
+להרוג את ביל: חלק ב'
+Kill Bill: Vol. 2
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/502.mp4</link><thumbnail>http://static.sratim.tv/movies/502.jpg</thumbnail><title>[B][COLOR coral]פארק היורה 2: העולם האבוד[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Lost World: Jurassic Park
+פארק היורה 2: העולם האבוד
+The Lost World: Jurassic Park
+1997   <item><link>http://s1.sratim.tv/movie/HD/1080/504.mp4</link><thumbnail>http://static.sratim.tv/movies/504.jpg</thumbnail><title>[B][COLOR coral]פארק היורה 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jurassic Park III
+פארק היורה 3
+Jurassic Park III
+2001   <item><link>http://s1.sratim.tv/movie/HD/1080/505.mp4</link><thumbnail>http://static.sratim.tv/movies/505.jpg</thumbnail><title>[B][COLOR coral]נקודת שוויון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Equalizer
+נקודת שוויון
+The Equalizer
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/519.mp4</link><thumbnail>http://static.sratim.tv/movies/519.jpg</thumbnail><title>[B][COLOR coral]בוליט[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Bullitt
+בוליט
+Bullitt
+1968   <item><link>http://s1.sratim.tv/movie/HD/720/528.mp4</link><thumbnail>http://static.sratim.tv/movies/528.jpg</thumbnail><title>[B][COLOR coral]הפריצה לאלקטרז[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Rock
+הפריצה לאלקטרז
+The Rock
+1996   <item><link>http://s1.sratim.tv/movie/HD/1080/529.mp4</link><thumbnail>http://static.sratim.tv/movies/529.jpg</thumbnail><title>[B][COLOR coral]דוקטור נו[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Dr. No
+דוקטור נו
+Dr. No
+1962   <item><link>http://s1.sratim.tv/movie/HD/1080/532.mp4</link><thumbnail>http://static.sratim.tv/movies/532.jpg</thumbnail><title>[B][COLOR coral] גולדן איי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Goldeneye
+גולדן איי
+Goldeneye
+1995   <item><link>http://s1.sratim.tv/movie/HD/1080/533.mp4</link><thumbnail>http://static.sratim.tv/movies/533.jpg</thumbnail><title>[B][COLOR coral]אוקטופוסי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Octopussy
+אוקטופוסי
+Octopussy
+1983   <item><link>http://s1.sratim.tv/movie/HD/1080/534.mp4</link><thumbnail>http://static.sratim.tv/movies/534.jpg</thumbnail><title>[B][COLOR coral]באזור מסוכן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Living Daylights
+באזור מסוכן
+The Living Daylights
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/535.mp4</link><thumbnail>http://static.sratim.tv/movies/535.jpg</thumbnail><title>[B][COLOR coral]המרגלת שאהבה אותי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Spy Who Loved Me
+המרגלת שאהבה אותי
+The Spy Who Loved Me
+1977   <item><link>http://s1.sratim.tv/movie/HD/1080/536.mp4</link><thumbnail>http://static.sratim.tv/movies/536.jpg</thumbnail><title>[B][COLOR coral]כדור הרעם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Thunderball
+כדור הרעם
+Thunderball
+1965   <item><link>http://s1.sratim.tv/movie/HD/1080/537.mp4</link><thumbnail>http://static.sratim.tv/movies/537.jpg</thumbnail><title>[B][COLOR coral]אתה חי רק פעמיים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>You Only Live Twice
+אתה חי רק פעמיים
+You Only Live Twice
+1967   <item><link>http://s1.sratim.tv/movie/HD/1080/555.mp4</link><thumbnail>http://static.sratim.tv/movies/555.jpg</thumbnail><title>[B][COLOR coral]הנוקמים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Avengers
+הנוקמים
+The Avengers
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/556.mp4</link><thumbnail>http://static.sratim.tv/movies/556.jpg</thumbnail><title>[B][COLOR coral]עלייתו של האביר האפל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Dark Knight Rises
+עלייתו של האביר האפל
+The Dark Knight Rises
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/565.mp4</link><thumbnail>http://static.sratim.tv/movies/565.jpg</thumbnail><title>[B][COLOR coral]בלתי נשכחים 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Expendables 3
+בלתי נשכחים 3
+The Expendables 3
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/567.mp4</link><thumbnail>http://static.sratim.tv/movies/567.jpg</thumbnail><title>[B][COLOR coral]סיפורי נרניה: הנסיך כספיאן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Chronicles of Narnia: Prince Caspian
+סיפורי נרניה: הנסיך כספיאן
+The Chronicles of Narnia: Prince Caspian
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/568.mp4</link><thumbnail>http://static.sratim.tv/movies/568.jpg</thumbnail><title>[B][COLOR coral]סיפורי נרניה: המסע בדורך השחר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Chronicles of Narnia: The Voyage of the Dawn Treader
+סיפורי נרניה: המסע בדורך השחר
+The Chronicles of Narnia: The Voyage of the Dawn Treader
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/569.mp4</link><thumbnail>http://static.sratim.tv/movies/569.jpg</thumbnail><title>[B][COLOR coral]משחקי הרעב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Hunger Games
+משחקי הרעב
+The Hunger Games
+2012   <item><link>http://s1.sratim.tv/movie/HD/720/573.mp4</link><thumbnail>http://static.sratim.tv/movies/573.jpg</thumbnail><title>[B][COLOR coral]עידן הקרח 2: נמסים מצחוק[COLOR aqua](SD) [/COLOR][/B][/COLOR]</title></item>Ice Age: The Meltdown
+עידן הקרח 2: נמסים מצחוק
+Ice Age: The Meltdown
+2006   <item><link>http://s1.sratim.tv/movie/SD/480/574.mp4</link><thumbnail>http://static.sratim.tv/movies/574.jpg</thumbnail><title>[B][COLOR coral]עידן הקרח 3: עלייתם של הדינוזאורים - מדובב[COLOR aqua](SD) [/COLOR][/B][/COLOR]</title></item>Ice Age: Dawn of the Dinosaurs
+עידן הקרח 3: עלייתם של הדינוזאורים - מדובב
+Ice Age: Dawn of the Dinosaurs
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/575.mp4</link><thumbnail>http://static.sratim.tv/movies/575.jpg</thumbnail><title>[B][COLOR coral]משחקי הרעב: התלקחות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Hunger Games: Catching Fire
+משחקי הרעב: התלקחות
+The Hunger Games: Catching Fire
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/576.mp4</link><thumbnail>http://static.sratim.tv/movies/576.jpg</thumbnail><title>[B][COLOR coral]יהלומים לנצח[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Diamonds Are Forever
+יהלומים לנצח
+Diamonds Are Forever
+1971   <item><link>http://s1.sratim.tv/movie/HD/720/577.mp4</link><thumbnail>http://static.sratim.tv/movies/577.jpg</thumbnail><title>[B][COLOR coral]ג'ומנג'י: שורדים בג'ונגל[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Jumanji: Welcome to the Jungle
+ג'ומנג'י: שורדים בג'ונגל
+Jumanji: Welcome to the Jungle
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/580.mp4</link><thumbnail>http://static.sratim.tv/movies/580.jpg</thumbnail><title>[B][COLOR coral]לילה מוטרף במוזיאון[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Night at the Museum
+לילה מוטרף במוזיאון
+Night at the Museum
+2006   <item><link>http://s1.sratim.tv/movie/HD/720/581.mp4</link><thumbnail>http://static.sratim.tv/movies/581.jpg</thumbnail><title>[B][COLOR coral]לילה מוטרף במוזיאון 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Night at the Museum: Battle of the Smithsonian
+לילה מוטרף במוזיאון 2
+Night at the Museum: Battle of the Smithsonian
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/586.mp4</link><thumbnail>http://static.sratim.tv/movies/586.jpg</thumbnail><title>[B][COLOR coral]שקרים אמיתיים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>True Lies
+שקרים אמיתיים
+True Lies
+1994   <item><link>http://s1.sratim.tv/movie/HD/1080/595.mp4</link><thumbnail>http://static.sratim.tv/movies/595.jpg</thumbnail><title>[B][COLOR coral]ספיד[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Speed
+ספיד
+Speed
+1994   <item><link>http://s1.sratim.tv/movie/HD/1080/597.mp4</link><thumbnail>http://static.sratim.tv/movies/597.jpg</thumbnail><title>[B][COLOR coral]אינדיאנה ג'ונס וממלכת גולגולת הבדולח[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Indiana Jones and the Kingdom of the Crystal Skull
+אינדיאנה ג'ונס וממלכת גולגולת הבדולח
+Indiana Jones and the Kingdom of the Crystal Skull
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/598.mp4</link><thumbnail>http://static.sratim.tv/movies/598.jpg</thumbnail><title>[B][COLOR coral]אינדיאנה ג'ונס ומסע הצלב האחרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Indiana Jones and the Last Crusade
+אינדיאנה ג'ונס ומסע הצלב האחרון
+Indiana Jones and the Last Crusade
+1989   <item><link>http://s1.sratim.tv/movie/HD/1080/599.mp4</link><thumbnail>http://static.sratim.tv/movies/599.jpg</thumbnail><title>[B][COLOR coral]אינדיאנה ג'ונס ושודדי התיבה האבודה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Raiders of the Lost Ark
+אינדיאנה ג'ונס ושודדי התיבה האבודה
+Raiders of the Lost Ark
+1981   <item><link>http://s1.sratim.tv/movie/HD/1080/600.mp4</link><thumbnail>http://static.sratim.tv/movies/600.jpg</thumbnail><title>[B][COLOR coral]אינדיאנה ג'ונס והמקדש הארור[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Indiana Jones and the Temple of Doom
+אינדיאנה ג'ונס והמקדש הארור
+Indiana Jones and the Temple of Doom
+1984   <item><link>http://s1.sratim.tv/movie/HD/720/603.mp4</link><thumbnail>http://static.sratim.tv/movies/603.jpg</thumbnail><title>[B][COLOR coral]בובה של רצח[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Happytime Murders
+בובה של רצח
+The Happytime Murders
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/605.mp4</link><thumbnail>http://static.sratim.tv/movies/605.jpg</thumbnail><title>[B][COLOR coral]הסמוראי האחרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Last Samurai
+הסמוראי האחרון
+The Last Samurai
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/608.mp4</link><thumbnail>http://static.sratim.tv/movies/608.jpg</thumbnail><title>[B][COLOR coral]צלף אמריקאי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>American Sniper
+צלף אמריקאי
+American Sniper
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/609.mp4</link><thumbnail>http://static.sratim.tv/movies/609.jpg</thumbnail><title>[B][COLOR coral]משחקי הרעב: עורבני חקיין חלק 1[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Hunger Games: Mockingjay - Part 1
+משחקי הרעב: עורבני חקיין חלק 1
+The Hunger Games: Mockingjay - Part 1
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/613.mp4</link><thumbnail>http://static.sratim.tv/movies/613.jpg</thumbnail><title>[B][COLOR coral]משחקי הרעב: עורבני חקיין - חלק 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Hunger Games: Mockingjay - Part 2
+משחקי הרעב: עורבני חקיין - חלק 2
+The Hunger Games: Mockingjay - Part 2
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/616.mp4</link><thumbnail>http://static.sratim.tv/movies/616.jpg</thumbnail><title>[B][COLOR coral] אקס-מן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X-Men
+אקס-מן
+X-Men
+2000   <item><link>http://s1.sratim.tv/movie/HD/720/617.mp4</link><thumbnail>http://static.sratim.tv/movies/617.jpg</thumbnail><title>[B][COLOR coral]שלושת המוסקטרים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Three Musketeers
+שלושת המוסקטרים
+The Three Musketeers
+1993   <item><link>http://s1.sratim.tv/movie/HD/1080/618.mp4</link><thumbnail>http://static.sratim.tv/movies/618.jpg</thumbnail><title>[B][COLOR coral] אקס-מן 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X2
+אקס-מן 2
+X2
+2003   <item><link>http://s1.sratim.tv/movie/HD/720/619.mp4</link><thumbnail>http://static.sratim.tv/movies/619.jpg</thumbnail><title>[B][COLOR coral]12 הנועזים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Dirty Dozen
+12 הנועזים
+The Dirty Dozen
+1967   <item><link>http://s1.sratim.tv/movie/HD/1080/620.mp4</link><thumbnail>http://static.sratim.tv/movies/620.jpg</thumbnail><title>[B][COLOR coral] אקס-מן 3: המפלט האחרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X-Men: The Last Stand
+אקס-מן 3: המפלט האחרון
+X-Men: The Last Stand
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/621.mp4</link><thumbnail>http://static.sratim.tv/movies/621.jpg</thumbnail><title>[B][COLOR coral] אקס-מן המקור: וולברין [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X-Men Origins: Wolverine
+אקס-מן המקור: וולברין
+X-Men Origins: Wolverine
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/622.mp4</link><thumbnail>http://static.sratim.tv/movies/622.jpg</thumbnail><title>[B][COLOR coral]אקס-מן: ההתחלה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X: First Class
+אקס-מן: ההתחלה
+X: First Class
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/624.mp4</link><thumbnail>http://static.sratim.tv/movies/624.jpg</thumbnail><title>[B][COLOR coral] וולברין[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Wolverine
+וולברין
+The Wolverine
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/625.mp4</link><thumbnail>http://static.sratim.tv/movies/625.jpg</thumbnail><title>[B][COLOR coral] אקס מן: העתיד שהיה [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>X-Men: Days of Future Past
+אקס מן: העתיד שהיה
+X-Men: Days of Future Past
+2014   <item><link>http://s1.sratim.tv/movie/HD/720/627.mp4</link><thumbnail>http://static.sratim.tv/movies/627.jpg</thumbnail><title>[B][COLOR coral]העולם אינו מספיק[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The World Is Not Enough
+העולם אינו מספיק
+The World Is Not Enough
+1999   <item><link>http://s1.sratim.tv/movie/HD/1080/628.mp4</link><thumbnail>http://static.sratim.tv/movies/628.jpg</thumbnail><title>[B][COLOR coral]טיימקופ[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Timecop
+טיימקופ
+Timecop
+1994   <item><link>http://s1.sratim.tv/movie/HD/1080/629.mp4</link><thumbnail>http://static.sratim.tv/movies/629.jpg</thumbnail><title>[B][COLOR coral]זיכרון גורלי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Total Recall
+זיכרון גורלי
+Total Recall
+1990   <item><link>http://s1.sratim.tv/movie/HD/1080/635.mp4</link><thumbnail>http://static.sratim.tv/movies/635.jpg</thumbnail><title>[B][COLOR coral]קזינו רויאל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Casino Royale
+קזינו רויאל
+Casino Royale
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/642.mp4</link><thumbnail>http://static.sratim.tv/movies/642.jpg</thumbnail><title>[B][COLOR coral]משפחת סופר על 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Incredibles 2
+משפחת סופר על 2
+Incredibles 2
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/645.mp4</link><thumbnail>http://static.sratim.tv/movies/645.jpg</thumbnail><title>[B][COLOR coral] סופרמן[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Superman 
+סופרמן
+Superman
+1978   <item><link>http://s1.sratim.tv/movie/HD/720/647.mp4</link><thumbnail>http://static.sratim.tv/movies/647.jpg</thumbnail><title>[B][COLOR coral]סופרמן 2 [COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Superman II 
+סופרמן 2
+Superman II
+1980   <item><link>http://s1.sratim.tv/movie/HD/720/648.mp4</link><thumbnail>http://static.sratim.tv/movies/648.jpg</thumbnail><title>[B][COLOR coral] סופרמן 2: גרסתו של ריצ'ארד דונר[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Superman II: The Richard Donner Cut 
+סופרמן 2: גרסתו של ריצ'ארד דונר
+Superman II: The Richard Donner Cut
+1980   <item><link>http://s1.sratim.tv/movie/HD/720/651.mp4</link><thumbnail>http://static.sratim.tv/movies/651.jpg</thumbnail><title>[B][COLOR coral]סופרמן 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Superman III 
+סופרמן 3
+Superman III
+1983   <item><link>http://s1.sratim.tv/movie/HD/720/654.mp4</link><thumbnail>http://static.sratim.tv/movies/654.jpg</thumbnail><title>[B][COLOR coral]סופרמן 4: השאיפה לשלום[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Superman IV: The Quest for Peace
+סופרמן 4: השאיפה לשלום
+Superman IV: The Quest for Peace
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/659.mp4</link><thumbnail>http://static.sratim.tv/movies/659.jpg</thumbnail><title>[B][COLOR coral] אי הנקמות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Revenger
+אי הנקמות
+Revenger
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/661.mp4</link><thumbnail>http://static.sratim.tv/movies/661.jpg</thumbnail><title>[B][COLOR coral]בשרות הוד מלכותה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>On Her Majesty's Secret Service
+בשרות הוד מלכותה
+On Her Majesty's Secret Service
+1969   <item><link>http://s1.sratim.tv/movie/HD/1080/662.mp4</link><thumbnail>http://static.sratim.tv/movies/662.jpg</thumbnail><title>[B][COLOR coral] טיטאן - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Titan A.E. 
+טיטאן - מדובב
+Titan A.E.
+2000   <item><link>http://s1.sratim.tv/movie/HD/720/667.mp4</link><thumbnail>http://static.sratim.tv/movies/667.jpg</thumbnail><title>[B][COLOR coral]מר וגברת סמית'[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Mr. & Mrs. Smith
+מר וגברת סמית'
+Mr. & Mrs. Smith
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/673.mp4</link><thumbnail>http://static.sratim.tv/movies/673.jpg</thumbnail><title>[B][COLOR coral]המוהיקני האחרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Last of the Mohicans
+המוהיקני האחרון
+The Last of the Mohicans
+1992   <item><link>http://s1.sratim.tv/movie/HD/1080/678.mp4</link><thumbnail>http://static.sratim.tv/movies/678.jpg</thumbnail><title>[B][COLOR coral]האלמנט החמישי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Fifth Element
+האלמנט החמישי
+The Fifth Element
+1997   <item><link>http://s1.sratim.tv/movie/HD/1080/683.mp4</link><thumbnail>http://static.sratim.tv/movies/683.jpg</thumbnail><title>[B][COLOR coral]ספקטר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Spectre
+ספקטר
+Spectre
+2015   <item><link>http://s1.sratim.tv/movie/HD/720/687.mp4</link><thumbnail>http://static.sratim.tv/movies/687.jpg</thumbnail><title>[B][COLOR coral]שכחו אותי בבית 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Home Alone 3
+שכחו אותי בבית 3
+Home Alone 3
+1997   <item><link>http://s1.sratim.tv/movie/HD/1080/688.mp4</link><thumbnail>http://static.sratim.tv/movies/688.jpg</thumbnail><title>[B][COLOR coral]זהות במלכודת[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Bourne Supremacy
+זהות במלכודת
+The Bourne Supremacy
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/691.mp4</link><thumbnail>http://static.sratim.tv/movies/691.jpg</thumbnail><title>[B][COLOR coral]המטרה: לונדון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>London Has Fallen
+המטרה: לונדון
+London Has Fallen
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/692.mp4</link><thumbnail>http://static.sratim.tv/movies/692.jpg</thumbnail><title>[B][COLOR coral]קוואנטום של נחמה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Quantum Of Solace
+קוואנטום של נחמה
+Quantum Of Solace
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/694.mp4</link><thumbnail>http://static.sratim.tv/movies/694.jpg</thumbnail><title>[B][COLOR coral]זאב בודד[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Lone Wolf McQuade
+זאב בודד
+Lone Wolf McQuade
+1983   <item><link>http://s1.sratim.tv/movie/HD/720/701.mp4</link><thumbnail>http://static.sratim.tv/movies/701.jpg</thumbnail><title>[B][COLOR coral]קונג פו פנדה 2 - מדובב[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Kung Fu Panda 2
+קונג פו פנדה 2 - מדובב
+Kung Fu Panda 2
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/704.mp4</link><thumbnail>http://static.sratim.tv/movies/704.jpg</thumbnail><title>[B][COLOR coral]לצוד את האויב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Hunter Killer
+לצוד את האויב
+Hunter Killer
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/731.mp4</link><thumbnail>http://static.sratim.tv/movies/731.jpg</thumbnail><title>[B][COLOR coral]כוכב הקופים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Planet of the Apes
+כוכב הקופים
+Planet of the Apes
+2001   <item><link>http://s1.sratim.tv/movie/HD/720/732.mp4</link><thumbnail>http://static.sratim.tv/movies/732.jpg</thumbnail><title>[B][COLOR coral]שעת שיא[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Rush Hour
+שעת שיא
+Rush Hour
+1998   <item><link>http://s1.sratim.tv/movie/HD/720/733.mp4</link><thumbnail>http://static.sratim.tv/movies/733.jpg</thumbnail><title>[B][COLOR coral]שעת שיא 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Rush Hour 2
+שעת שיא 2
+Rush Hour 2
+2001   <item><link>http://s1.sratim.tv/movie/HD/720/734.mp4</link><thumbnail>http://static.sratim.tv/movies/734.jpg</thumbnail><title>[B][COLOR coral]שעת שיא 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Rush Hour 3
+שעת שיא 3
+Rush Hour 3
+2007   <item><link>http://s1.sratim.tv/movie/HD/720/742.mp4</link><thumbnail>http://static.sratim.tv/movies/742.jpg</thumbnail><title>[B][COLOR coral]האקדח מת מצחוק[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Naked Gun: From the Files of Police Squad!
+האקדח מת מצחוק
+The Naked Gun: From the Files of Police Squad!
+1988   <item><link>http://s1.sratim.tv/movie/HD/720/743.mp4</link><thumbnail>http://static.sratim.tv/movies/743.jpg</thumbnail><title>[B][COLOR coral]האקדח מת מצחוק 2.5[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Naked Gun 2½: The Smell of Fear
+האקדח מת מצחוק 2.5
+The Naked Gun 2½: The Smell of Fear
+1991   <item><link>http://s1.sratim.tv/movie/HD/1080/746.mp4</link><thumbnail>http://static.sratim.tv/movies/746.jpg</thumbnail><title>[B][COLOR coral]אטלנטיס: האימפריה האבודה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Atlantis: The Lost Empire
+אטלנטיס: האימפריה האבודה
+Atlantis: The Lost Empire
+2001   <item><link>http://s1.sratim.tv/movie/HD/1080/747.mp4</link><thumbnail>http://static.sratim.tv/movies/747.jpg</thumbnail><title>[B][COLOR coral] אטלנטיס 2: שובו של מיילו[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Atlantis: Milo's Return
+אטלנטיס 2: שובו של מיילו
+Atlantis: Milo's Return
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/751.mp4</link><thumbnail>http://static.sratim.tv/movies/751.jpg</thumbnail><title>[B][COLOR coral]6 גיבורים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Big Hero 6
+6 גיבורים
+Big Hero 6
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/794.mp4</link><thumbnail>http://static.sratim.tv/movies/794.jpg</thumbnail><title>[B][COLOR coral]מולאן 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mulan II
+מולאן 2
+Mulan II
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/804.mp4</link><thumbnail>http://static.sratim.tv/movies/804.jpg</thumbnail><title>[B][COLOR coral] סקייפול[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Skyfall
+סקייפול
+Skyfall
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/828.mp4</link><thumbnail>http://static.sratim.tv/movies/828.jpg</thumbnail><title>[B][COLOR coral]משאלת מוות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Death Wish
+משאלת מוות
+Death Wish
+1974   <item><link>http://s1.sratim.tv/movie/HD/720/831.mp4</link><thumbnail>http://static.sratim.tv/movies/831.jpg</thumbnail><title>[B][COLOR coral]שחק אותה סמארט[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Get Smart
+שחק אותה סמארט
+Get Smart
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/835.mp4</link><thumbnail>http://static.sratim.tv/movies/835.jpg</thumbnail><title>[B][COLOR coral]רובוטריקים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Transformers
+רובוטריקים
+Transformers
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/836.mp4</link><thumbnail>http://static.sratim.tv/movies/836.jpg</thumbnail><title>[B][COLOR coral]רובוטריקים 2: הנקמה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Transformers: Revenge of the Fallen
+רובוטריקים 2: הנקמה
+Transformers: Revenge of the Fallen
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/837.mp4</link><thumbnail>http://static.sratim.tv/movies/837.jpg</thumbnail><title>[B][COLOR coral]רובוטריקים 3: אפלת הירח[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Transformers: Dark of the Moon
+רובוטריקים 3: אפלת הירח
+Transformers: Dark of the Moon
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/844.mp4</link><thumbnail>http://static.sratim.tv/movies/844.jpg</thumbnail><title>[B][COLOR coral]רובוטריקים 4[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Transformers: Age of Extinction
+רובוטריקים 4
+Transformers: Age of Extinction
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/845.mp4</link><thumbnail>http://static.sratim.tv/movies/845.jpg</thumbnail><title>[B][COLOR coral]רובוטריקים: האביר האחרון[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Not Available
+רובוטריקים: האביר האחרון
+Not Available
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/847.mp4</link><thumbnail>http://static.sratim.tv/movies/847.jpg</thumbnail><title>[B][COLOR coral]קראטה קיד 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Karate Kid Part II
+קראטה קיד 2
+The Karate Kid Part II
+1986   <item><link>http://s1.sratim.tv/movie/HD/720/848.mp4</link><thumbnail>http://static.sratim.tv/movies/848.jpg</thumbnail><title>[B][COLOR coral]קראטה קיד 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Karate Kid Part III
+קראטה קיד 3
+The Karate Kid Part III
+1989   <item><link>http://s1.sratim.tv/movie/HD/720/851.mp4</link><thumbnail>http://static.sratim.tv/movies/851.jpg</thumbnail><title>[B][COLOR coral]קראטה קיד הבא[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Next Karate Kid
+קראטה קיד הבא
+The Next Karate Kid
+1994   <item><link>http://s1.sratim.tv/movie/HD/720/852.mp4</link><thumbnail>http://static.sratim.tv/movies/852.jpg</thumbnail><title>[B][COLOR coral] קראטה קיד [COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Karate Kid
+קראטה קיד
+The Karate Kid
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/853.mp4</link><thumbnail>http://static.sratim.tv/movies/853.jpg</thumbnail><title>[B][COLOR coral]איזה מין שוטרת[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Miss Congeniality
+איזה מין שוטרת
+Miss Congeniality
+2000   <item><link>http://s1.sratim.tv/movie/HD/1080/854.mp4</link><thumbnail>http://static.sratim.tv/movies/854.jpg</thumbnail><title>[B][COLOR coral]איזה מין שוטרת 2: חמושה ומהממת[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Miss Congeniality 2: Armed & Fabulous
+איזה מין שוטרת 2: חמושה ומהממת
+Miss Congeniality 2: Armed & Fabulous
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/860.mp4</link><thumbnail>http://static.sratim.tv/movies/860.jpg</thumbnail><title>[B][COLOR coral] מלחמת האופל [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Underworld
+מלחמת האופל
+Underworld
+2003   <item><link>http://s1.sratim.tv/movie/HD/720/862.mp4</link><thumbnail>http://static.sratim.tv/movies/862.jpg</thumbnail><title>[B][COLOR coral]הטורף 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Predator 2
+הטורף 2
+Predator 2
+1990   <item><link>http://s1.sratim.tv/movie/HD/720/864.mp4</link><thumbnail>http://static.sratim.tv/movies/864.jpg</thumbnail><title>[B][COLOR coral]טורפים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Predators
+טורפים
+Predators
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/873.mp4</link><thumbnail>http://static.sratim.tv/movies/873.jpg</thumbnail><title>[B][COLOR coral]מלחמת האופל 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Underworld: Evolution
+מלחמת האופל 2
+Underworld: Evolution
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/874.mp4</link><thumbnail>http://static.sratim.tv/movies/874.jpg</thumbnail><title>[B][COLOR coral]מלחמת האופל 3: עלייתם של אנשי הזאב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Underworld: Rise of the Lycans
+מלחמת האופל 3: עלייתם של אנשי הזאב
+Underworld: Rise of the Lycans
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/878.mp4</link><thumbnail>http://static.sratim.tv/movies/878.jpg</thumbnail><title>[B][COLOR coral]מלחמת האופל 4: התעוררות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Underworld Awakening
+מלחמת האופל 4: התעוררות
+Underworld Awakening
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/880.mp4</link><thumbnail>http://static.sratim.tv/movies/880.jpg</thumbnail><title>[B][COLOR coral]מלחמת האופל 5: מלחמות הדם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Underworld: Blood Wars
+מלחמת האופל 5: מלחמות הדם
+Underworld: Blood Wars
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/883.mp4</link><thumbnail>http://static.sratim.tv/movies/883.jpg</thumbnail><title>[B][COLOR coral]ג'ק ריצ'ר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jack Reacher
+ג'ק ריצ'ר
+Jack Reacher
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/884.mp4</link><thumbnail>http://static.sratim.tv/movies/884.jpg</thumbnail><title>[B][COLOR coral]ג'ייסון בורן [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jason Bourne
+ג'ייסון בורן
+Jason Bourne
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/891.mp4</link><thumbnail>http://static.sratim.tv/movies/891.jpg</thumbnail><title>[B][COLOR coral]ג'ק ריצ'ר: אין דרך חזרה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Jack Reacher: Never Go Back
+ג'ק ריצ'ר: אין דרך חזרה
+Jack Reacher: Never Go Back
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/893.mp4</link><thumbnail>http://static.sratim.tv/movies/893.jpg</thumbnail><title>[B][COLOR coral] שרלוק הולמס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Sherlock Holmes
+שרלוק הולמס
+Sherlock Holmes
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/896.mp4</link><thumbnail>http://static.sratim.tv/movies/896.jpg</thumbnail><title>[B][COLOR coral]שרלוק הולמס: משחק הצללים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Sherlock Holmes: A Game of Shadows
+שרלוק הולמס: משחק הצללים
+Sherlock Holmes: A Game of Shadows
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/897.mp4</link><thumbnail>http://static.sratim.tv/movies/897.jpg</thumbnail><title>[B][COLOR coral] טומב ריידר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Lara Croft: Tomb Raider
+טומב ריידר
+Lara Croft: Tomb Raider
+2001   <item><link>http://s1.sratim.tv/movie/HD/1080/898.mp4</link><thumbnail>http://static.sratim.tv/movies/898.jpg</thumbnail><title>[B][COLOR coral]טומב ריידר 2: סוד החיים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Lara Croft Tomb Raider: The Cradle of Life
+טומב ריידר 2: סוד החיים
+Lara Croft Tomb Raider: The Cradle of Life
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/899.mp4</link><thumbnail>http://static.sratim.tv/movies/899.jpg</thumbnail><title>[B][COLOR coral]זהות כפולה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Bourne Identity
+זהות כפולה
+The Bourne Identity
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/900.mp4</link><thumbnail>http://static.sratim.tv/movies/900.jpg</thumbnail><title>[B][COLOR coral]זהות אבודה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Bourne Ultimatum
+זהות אבודה
+The Bourne Ultimatum
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/901.mp4</link><thumbnail>http://static.sratim.tv/movies/901.jpg</thumbnail><title>[B][COLOR coral]זהות גנובה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Bourne Legacy
+זהות גנובה
+The Bourne Legacy
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/906.mp4</link><thumbnail>http://static.sratim.tv/movies/906.jpg</thumbnail><title>[B][COLOR coral]בחורים רעים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Bad Boys
+בחורים רעים
+Bad Boys
+1995   <item><link>http://s1.sratim.tv/movie/HD/1080/907.mp4</link><thumbnail>http://static.sratim.tv/movies/907.jpg</thumbnail><title>[B][COLOR coral] בחורים רעים 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Bad Boys II
+בחורים רעים 2
+Bad Boys II
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/908.mp4</link><thumbnail>http://static.sratim.tv/movies/908.jpg</thumbnail><title>[B][COLOR coral]ספיידרמן המופלא[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Amazing Spider-Man
+ספיידרמן המופלא
+The Amazing Spider-Man
+2012   <item><link>http://s1.sratim.tv/movie/HD/720/910.mp4</link><thumbnail>http://static.sratim.tv/movies/910.jpg</thumbnail><title>[B][COLOR coral]אוסטין פאוורס: גולדממבר[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Austin Powers in Goldmember
+אוסטין פאוורס: גולדממבר
+Austin Powers in Goldmember
+2002   <item><link>http://s1.sratim.tv/movie/HD/720/911.mp4</link><thumbnail>http://static.sratim.tv/movies/911.jpg</thumbnail><title>[B][COLOR coral]אוסטין פאוורס: מרגל עם סגנון[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Austin Powers: International Man of Mystery
+אוסטין פאוורס: מרגל עם סגנון
+Austin Powers: International Man of Mystery
+1997   <item><link>http://s1.sratim.tv/movie/HD/720/912.mp4</link><thumbnail>http://static.sratim.tv/movies/912.jpg</thumbnail><title>[B][COLOR coral]אוסטין פאוורס: המרגל שתקע אותי[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Austin Powers: The Spy Who Shagged Me
+אוסטין פאוורס: המרגל שתקע אותי
+Austin Powers: The Spy Who Shagged Me
+1999   <item><link>http://s1.sratim.tv/movie/HD/1080/913.mp4</link><thumbnail>http://static.sratim.tv/movies/913.jpg</thumbnail><title>[B][COLOR coral]סופרמן: איש הפלדה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Man of Steel
+סופרמן: איש הפלדה
+Man of Steel
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/914.mp4</link><thumbnail>http://static.sratim.tv/movies/914.jpg</thumbnail><title>[B][COLOR coral]מקס סטיל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Max Steel
+מקס סטיל
+Max Steel
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/915.mp4</link><thumbnail>http://static.sratim.tv/movies/915.jpg</thumbnail><title>[B][COLOR coral]נשק קטלני[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Lethal Weapon
+נשק קטלני
+Lethal Weapon
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/916.mp4</link><thumbnail>http://static.sratim.tv/movies/916.jpg</thumbnail><title>[B][COLOR coral]נשק קטלני 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Lethal Weapon 2
+נשק קטלני 2
+Lethal Weapon 2
+1989   <item><link>http://s1.sratim.tv/movie/HD/1080/917.mp4</link><thumbnail>http://static.sratim.tv/movies/917.jpg</thumbnail><title>[B][COLOR coral]שומרי הגלקסיה חלק 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Guardians of the Galaxy Vol. 2
+שומרי הגלקסיה חלק 2
+Guardians of the Galaxy Vol. 2
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/922.mp4</link><thumbnail>http://static.sratim.tv/movies/922.jpg</thumbnail><title>[B][COLOR coral]בופור[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Beaufort
+בופור
+Beaufort
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/925.mp4</link><thumbnail>http://static.sratim.tv/movies/925.jpg</thumbnail><title>[B][COLOR coral]התנגשות הטיטאנים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Clash of the Titans
+התנגשות הטיטאנים
+Clash of the Titans
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/926.mp4</link><thumbnail>http://static.sratim.tv/movies/926.jpg</thumbnail><title>[B][COLOR coral]זעם הטיטאנים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Wrath of the Titans
+זעם הטיטאנים
+Wrath of the Titans
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/934.mp4</link><thumbnail>http://static.sratim.tv/movies/934.jpg</thumbnail><title>[B][COLOR coral]שליחות קטלנית 3: עלייתן של המכונות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Terminator 3: Rise of the Machines
+שליחות קטלנית 3: עלייתן של המכונות
+Terminator 3: Rise of the Machines
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/935.mp4</link><thumbnail>http://static.sratim.tv/movies/935.jpg</thumbnail><title>[B][COLOR coral]שליחות קטלנית: התעוררות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Terminator Salvation
+שליחות קטלנית: התעוררות
+Terminator Salvation
+2009   <item><link>http://s1.sratim.tv/movie/HD/1080/937.mp4</link><thumbnail>http://static.sratim.tv/movies/937.jpg</thumbnail><title>[B][COLOR coral]שליחות קטלנית: ג'נסיס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Terminator Genisys
+שליחות קטלנית: ג'נסיס
+Terminator Genisys
+2015   <item><link>http://s1.sratim.tv/movie/HD/1080/939.mp4</link><thumbnail>http://static.sratim.tv/movies/939.jpg</thumbnail><title>[B][COLOR coral]אקווהמן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Aquaman
+אקווהמן
+Aquaman
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/940.mp4</link><thumbnail>http://static.sratim.tv/movies/940.jpg</thumbnail><title>[B][COLOR coral]הבריחה מאבסולום[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>No Escape
+הבריחה מאבסולום
+No Escape
+1994   <item><link>http://s1.sratim.tv/movie/HD/1080/949.mp4</link><thumbnail>http://static.sratim.tv/movies/949.jpg</thumbnail><title>[B][COLOR coral]קונג פו פנדה 3 - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kung Fu Panda 3
+קונג פו פנדה 3 - מדובב
+Kung Fu Panda 3
+2016   <item><link>http://s1.sratim.tv/movie/HD/720/953.mp4</link><thumbnail>http://static.sratim.tv/movies/953.jpg</thumbnail><title>[B][COLOR coral] עידן הקרח 2: נמסים מצחוק - מדובב[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Ice Age: The Meltdown
+עידן הקרח 2: נמסים מצחוק - מדובב
+Ice Age: The Meltdown
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/956.mp4</link><thumbnail>http://static.sratim.tv/movies/956.jpg</thumbnail><title>[B][COLOR coral]הגיס הרביעי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The 4th Company
+הגיס הרביעי
+The 4th Company
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/972.mp4</link><thumbnail>http://static.sratim.tv/movies/972.jpg</thumbnail><title>[B][COLOR coral] קונג פו פנדה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kung Fu Panda
+קונג פו פנדה
+Kung Fu Panda
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/973.mp4</link><thumbnail>http://static.sratim.tv/movies/973.jpg</thumbnail><title>[B][COLOR coral] קונג פו פנדה 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kung Fu Panda 2
+קונג פו פנדה 2
+Kung Fu Panda 2
+2011   <item><link>http://s1.sratim.tv/movie/HD/1080/974.mp4</link><thumbnail>http://static.sratim.tv/movies/974.jpg</thumbnail><title>[B][COLOR coral]קונג פו פנדה 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kung Fu Panda 3
+קונג פו פנדה 3
+Kung Fu Panda 3
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/976.mp4</link><thumbnail>http://static.sratim.tv/movies/976.jpg</thumbnail><title>[B][COLOR coral] באמבלבי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Bumblebee
+באמבלבי
+Bumblebee
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/977.mp4</link><thumbnail>http://static.sratim.tv/movies/977.jpg</thumbnail><title>[B][COLOR coral]ספיידרמן: מימד העכביש - מדובב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Spider-Man: Into the Spider-Verse 
+ספיידרמן: מימד העכביש - מדובב
+Spider-Man: Into the Spider-Verse
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/978.mp4</link><thumbnail>http://static.sratim.tv/movies/978.jpg</thumbnail><title>[B][COLOR coral]ספיידרמן: מימד העכביש [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Spider-Man: Into the Spider-Verse
+ספיידרמן: מימד העכביש
+Spider-Man: Into the Spider-Verse
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/980.mp4</link><thumbnail>http://static.sratim.tv/movies/980.jpg</thumbnail><title>[B][COLOR coral]הרוזן ממונטה קריסטו[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Count of Monte Cristo
+הרוזן ממונטה קריסטו
+The Count of Monte Cristo
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/990.mp4</link><thumbnail>http://static.sratim.tv/movies/990.jpg</thumbnail><title>[B][COLOR coral] 13 שעות: החיילים הסודיים של בנגאזי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>13 Hours: The Secret Soldiers Of Benghazi
+13 שעות: החיילים הסודיים של בנגאזי
+13 Hours: The Secret Soldiers Of Benghazi
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/991.mp4</link><thumbnail>http://static.sratim.tv/movies/991.jpg</thumbnail><title>[B][COLOR coral]גברים בחלל[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Starship Troopers
+גברים בחלל
+Starship Troopers
+1997   <item><link>http://s1.sratim.tv/movie/HD/1080/992.mp4</link><thumbnail>http://static.sratim.tv/movies/992.jpg</thumbnail><title>[B][COLOR coral]גברים בחלל 2: גיבור הפדרציה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Starship Troopers 2: Hero of the Federation
+גברים בחלל 2: גיבור הפדרציה
+Starship Troopers 2: Hero of the Federation
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/993.mp4</link><thumbnail>http://static.sratim.tv/movies/993.jpg</thumbnail><title>[B][COLOR coral]גברים בחלל 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Starship Troopers 3: Marauder
+גברים בחלל 3
+Starship Troopers 3: Marauder
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/994.mp4</link><thumbnail>http://static.sratim.tv/movies/994.jpg</thumbnail><title>[B][COLOR coral]מקס הזועם: כביש הזעם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Mad Max: Fury Road
+מקס הזועם: כביש הזעם
+Mad Max: Fury Road
+2015   <item><link>http://s1.sratim.tv/movie/HD/720/995.mp4</link><thumbnail>http://static.sratim.tv/movies/995.jpg</thumbnail><title>[B][COLOR coral]המשלח[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Transporter
+המשלח
+The Transporter
+2002   <item><link>http://s1.sratim.tv/movie/HD/720/996.mp4</link><thumbnail>http://static.sratim.tv/movies/996.jpg</thumbnail><title>[B][COLOR coral]המשלח 2[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Transporter 2
+המשלח 2
+Transporter 2
+2005   <item><link>http://s1.sratim.tv/movie/HD/720/997.mp4</link><thumbnail>http://static.sratim.tv/movies/997.jpg</thumbnail><title>[B][COLOR coral]המשלח 3[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Transporter 3
+המשלח 3
+Transporter 3
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/1010.mp4</link><thumbnail>http://static.sratim.tv/movies/1010.jpg</thumbnail><title>[B][COLOR coral] התופת [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Inferno
+התופת
+Inferno
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/1011.mp4</link><thumbnail>http://static.sratim.tv/movies/1011.jpg</thumbnail><title>[B][COLOR coral] הענק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Hulk
+הענק
+The Hulk
+2003   <item><link>http://s1.sratim.tv/movie/HD/1080/1012.mp4</link><thumbnail>http://static.sratim.tv/movies/1012.jpg</thumbnail><title>[B][COLOR coral]בעלי ברית[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Allied
+בעלי ברית
+Allied
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/1013.mp4</link><thumbnail>http://static.sratim.tv/movies/1013.jpg</thumbnail><title>[B][COLOR coral]קינגסמן: השירות החשאי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kingsman: The Secret Service
+קינגסמן: השירות החשאי
+Kingsman: The Secret Service
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/1014.mp4</link><thumbnail>http://static.sratim.tv/movies/1014.jpg</thumbnail><title>[B][COLOR coral]קינגסמן: מעגל הזהב[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Kingsman: The Golden Circle
+קינגסמן: מעגל הזהב
+Kingsman: The Golden Circle
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/1016.mp4</link><thumbnail>http://static.sratim.tv/movies/1016.jpg</thumbnail><title>[B][COLOR coral]חטופה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Taken
+חטופה
+Taken
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/1017.mp4</link><thumbnail>http://static.sratim.tv/movies/1017.jpg</thumbnail><title>[B][COLOR coral]חטופה 2[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Taken 2
+חטופה 2
+Taken 2
+2012   <item><link>http://s1.sratim.tv/movie/HD/1080/1019.mp4</link><thumbnail>http://static.sratim.tv/movies/1019.jpg</thumbnail><title>[B][COLOR coral]חטופה 3[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Taken 3
+חטופה 3
+Taken 3
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/1023.mp4</link><thumbnail>http://static.sratim.tv/movies/1023.jpg</thumbnail><title>[B][COLOR coral]האופנוען[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Burn Out
+האופנוען
+Burn Out
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/1025.mp4</link><thumbnail>http://static.sratim.tv/movies/1025.jpg</thumbnail><title>[B][COLOR coral]רצח בעיניים[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>A View to a Kill
+רצח בעיניים
+A View to a Kill
+1985   <item><link>http://s1.sratim.tv/movie/HD/1080/1028.mp4</link><thumbnail>http://static.sratim.tv/movies/1028.jpg</thumbnail><title>[B][COLOR coral]למות ביום אחר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Die Another Day
+למות ביום אחר
+Die Another Day
+2002   <item><link>http://s1.sratim.tv/movie/HD/720/1038.mp4</link><thumbnail>http://static.sratim.tv/movies/1038.jpg</thumbnail><title>[B][COLOR coral]סטארגייט: רצף הזמן[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Stargate: Continuum
+סטארגייט: רצף הזמן
+Stargate: Continuum
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/1052.mp4</link><thumbnail>http://static.sratim.tv/movies/1052.jpg</thumbnail><title>[B][COLOR coral]יחידת אריות הים לוחמת בחייזרים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Alien Warfare
+יחידת אריות הים לוחמת בחייזרים
+Alien Warfare
+2019   <item><link>http://s1.sratim.tv/movie/HD/720/1058.mp4</link><thumbnail>http://static.sratim.tv/movies/1058.jpg</thumbnail><title>[B][COLOR coral]אוברלורד[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Overlord
+אוברלורד
+Overlord
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/1059.mp4</link><thumbnail>http://static.sratim.tv/movies/1059.jpg</thumbnail><title>[B][COLOR coral]אקוומן[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Aquaman
+אקוומן
+Aquaman
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/1061.mp4</link><thumbnail>http://static.sratim.tv/movies/1061.jpg</thumbnail><title>[B][COLOR coral] מאסטר מיינדס[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Masterminds
+מאסטר מיינדס
+Masterminds
+2016   <item><link>http://s1.sratim.tv/movie/HD/1080/1063.mp4</link><thumbnail>http://static.sratim.tv/movies/1063.jpg</thumbnail><title>[B][COLOR coral]ג'וני אינגליש 3.0[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Johnny English Strikes Again
+ג'וני אינגליש 3.0
+Johnny English Strikes Again
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/1070.mp4</link><thumbnail>http://static.sratim.tv/movies/1070.jpg</thumbnail><title>[B][COLOR coral]גיבורי טלמרק[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Heroes of Telemark
+גיבורי טלמרק
+The Heroes of Telemark
+1965   <item><link>http://s1.sratim.tv/movie/HD/1080/1077.mp4</link><thumbnail>http://static.sratim.tv/movies/1077.jpg</thumbnail><title>[B][COLOR coral]מיס באלה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Miss Bala
+מיס באלה
+Miss Bala
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1084.mp4</link><thumbnail>http://static.sratim.tv/movies/1084.jpg</thumbnail><title>[B][COLOR coral] גייסות כוכבים: בוגד מאדים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Starship Troopers: Traitor of Mars
+גייסות כוכבים: בוגד מאדים
+Starship Troopers: Traitor of Mars
+2017   <item><link>http://s1.sratim.tv/movie/HD/720/1095.mp4</link><thumbnail>http://static.sratim.tv/movies/1095.jpg</thumbnail><title>[B][COLOR coral]גיבורים במצולות[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Kursk
+גיבורים במצולות
+Kursk
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/1105.mp4</link><thumbnail>http://static.sratim.tv/movies/1105.jpg</thumbnail><title>[B][COLOR coral]רצח האומה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Assassination Nation
+רצח האומה
+Assassination Nation
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/1106.mp4</link><thumbnail>http://static.sratim.tv/movies/1106.jpg</thumbnail><title>[B][COLOR coral]מרדף קר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Cold Pursuit
+מרדף קר
+Cold Pursuit
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1107.mp4</link><thumbnail>http://static.sratim.tv/movies/1107.jpg</thumbnail><title>[B][COLOR coral]הרסנית[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Destroyer
+הרסנית
+Destroyer
+2018   <item><link>http://s1.sratim.tv/movie/HD/720/1110.mp4</link><thumbnail>http://static.sratim.tv/movies/1110.jpg</thumbnail><title>[B][COLOR coral]אסקייפ רום[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Escape Room
+אסקייפ רום
+Escape Room
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1116.mp4</link><thumbnail>http://static.sratim.tv/movies/1116.jpg</thumbnail><title>[B][COLOR coral]מליפיסנט[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Maleficent
+מליפיסנט
+Maleficent
+2014   <item><link>http://s1.sratim.tv/movie/HD/720/1139.mp4</link><thumbnail>http://static.sratim.tv/movies/1139.jpg</thumbnail><title>[B][COLOR coral]פוסידון[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Poseidon
+פוסידון
+Poseidon
+2006   <item><link>http://s1.sratim.tv/movie/HD/1080/1146.mp4</link><thumbnail>http://static.sratim.tv/movies/1146.jpg</thumbnail><title>[B][COLOR coral]מחר, בפרוץ המלחמה[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Tomorrow, When the War Began
+מחר, בפרוץ המלחמה
+Tomorrow, When the War Began
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/1147.mp4</link><thumbnail>http://static.sratim.tv/movies/1147.jpg</thumbnail><title>[B][COLOR coral]וואסאבי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Wasabi
+וואסאבי
+Wasabi
+2001   <item><link>http://s1.sratim.tv/movie/HD/1080/1153.mp4</link><thumbnail>http://static.sratim.tv/movies/1153.jpg</thumbnail><title>[B][COLOR coral]לראות אותך אתמול[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>See You Yesterday
+לראות אותך אתמול
+See You Yesterday
+2019   <item><link>http://s1.sratim.tv/movie/HD/720/1154.mp4</link><thumbnail>http://static.sratim.tv/movies/1154.jpg</thumbnail><title>[B][COLOR coral]הפטריוט[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>The Patriot
+הפטריוט
+The Patriot
+2000   <item><link>http://s1.sratim.tv/movie/HD/1080/1162.mp4</link><thumbnail>http://static.sratim.tv/movies/1162.jpg</thumbnail><title>[B][COLOR coral]קפטן מארוול[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Captain Marvel
+קפטן מארוול
+Captain Marvel
+2019   <item><link>http://s1.sratim.tv/movie/HD/720/1166.mp4</link><thumbnail>http://static.sratim.tv/movies/1166.jpg</thumbnail><title>[B][COLOR coral]חיילים היינו[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>We Were Soldiers
+חיילים היינו
+We Were Soldiers
+2002   <item><link>http://s1.sratim.tv/movie/HD/1080/1171.mp4</link><thumbnail>http://static.sratim.tv/movies/1171.jpg</thumbnail><title>[B][COLOR coral]בכוח החוק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Enforcer
+בכוח החוק
+The Enforcer
+1976   <item><link>http://s1.sratim.tv/movie/HD/1080/1175.mp4</link><thumbnail>http://static.sratim.tv/movies/1175.jpg</thumbnail><title>[B][COLOR coral]רידיק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Riddick
+רידיק
+Riddick
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/1179.mp4</link><thumbnail>http://static.sratim.tv/movies/1179.jpg</thumbnail><title>[B][COLOR coral]הארי המזוהם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Dirty Harry
+הארי המזוהם
+Dirty Harry
+1971   <item><link>http://s1.sratim.tv/movie/HD/1080/1180.mp4</link><thumbnail>http://static.sratim.tv/movies/1180.jpg</thumbnail><title>[B][COLOR coral]מכת פתע[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Sudden Impact
+מכת פתע
+Sudden Impact
+1983   <item><link>http://s1.sratim.tv/movie/HD/1080/1181.mp4</link><thumbnail>http://static.sratim.tv/movies/1181.jpg</thumbnail><title>[B][COLOR coral]משחק המוות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Dead Pool
+משחק המוות
+The Dead Pool
+1988   <item><link>http://s1.sratim.tv/movie/HD/1080/1182.mp4</link><thumbnail>http://static.sratim.tv/movies/1182.jpg</thumbnail><title>[B][COLOR coral]זעם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Fury
+זעם
+Fury
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/1184.mp4</link><thumbnail>http://static.sratim.tv/movies/1184.jpg</thumbnail><title>[B][COLOR coral] קצה המחר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Edge Of Tomorrow
+קצה המחר
+Edge Of Tomorrow
+2014   <item><link>http://s1.sratim.tv/movie/HD/1080/1185.mp4</link><thumbnail>http://static.sratim.tv/movies/1185.jpg</thumbnail><title>[B][COLOR coral]על הכוונת[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Shooter
+על הכוונת
+Shooter
+2007   <item><link>http://s1.sratim.tv/movie/HD/1080/1188.mp4</link><thumbnail>http://static.sratim.tv/movies/1188.jpg</thumbnail><title>[B][COLOR coral] אני רובוט[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>I Robot
+אני רובוט
+I Robot
+2004   <item><link>http://s1.sratim.tv/movie/HD/1080/1189.mp4</link><thumbnail>http://static.sratim.tv/movies/1189.jpg</thumbnail><title>[B][COLOR coral]24 שעות לחיות[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>24 Hours to Live
+24 שעות לחיות
+24 Hours to Live
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/1193.mp4</link><thumbnail>http://static.sratim.tv/movies/1193.jpg</thumbnail><title>[B][COLOR coral]סופר[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Super
+סופר
+Super
+2010   <item><link>http://s1.sratim.tv/movie/HD/1080/1194.mp4</link><thumbnail>http://static.sratim.tv/movies/1194.jpg</thumbnail><title>[B][COLOR coral]שומר הסף[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Bouncer
+שומר הסף
+The Bouncer
+2018   <item><link>http://s1.sratim.tv/movie/HD/1080/1198.mp4</link><thumbnail>http://static.sratim.tv/movies/1198.jpg</thumbnail><title>[B][COLOR coral] הנקוק[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Hancock
+הנקוק
+Hancock
+2008   <item><link>http://s1.sratim.tv/movie/HD/1080/1201.mp4</link><thumbnail>http://static.sratim.tv/movies/1201.jpg</thumbnail><title>[B][COLOR coral] דוח מיוחד[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Minority Report
+דוח מיוחד
+Minority Report
+2002   <item><link>http://s1.sratim.tv/movie/HD/720/1203.mp4</link><thumbnail>http://static.sratim.tv/movies/1203.jpg</thumbnail><title>[B][COLOR coral] ממלכת גן עדן[COLOR aqua](HD) [/COLOR][/B][/COLOR]</title></item>Kingdom Of Heaven
+ממלכת גן עדן
+Kingdom Of Heaven
+2005   <item><link>http://s1.sratim.tv/movie/HD/1080/1204.mp4</link><thumbnail>http://static.sratim.tv/movies/1204.jpg</thumbnail><title>[B][COLOR coral]מלחמת העולם זד[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>World War Z
+מלחמת העולם זד
+World War Z
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/1205.mp4</link><thumbnail>http://static.sratim.tv/movies/1205.jpg</thumbnail><title>[B][COLOR coral] היום השלישי[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Independence Day
+היום השלישי
+Independence Day
+1996   <item><link>http://s1.sratim.tv/movie/HD/1080/1210.mp4</link><thumbnail>http://static.sratim.tv/movies/1210.jpg</thumbnail><title>[B][COLOR coral]אליסיום[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Elysium
+אליסיום
+Elysium
+2013   <item><link>http://s1.sratim.tv/movie/HD/1080/1227.mp4</link><thumbnail>http://static.sratim.tv/movies/1227.jpg</thumbnail><title>[B][COLOR coral]קצה העולם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Rim of the World
+קצה העולם
+Rim of the World
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1229.mp4</link><thumbnail>http://static.sratim.tv/movies/1229.jpg</thumbnail><title>[B][COLOR coral] כוננות מיידית[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Crimson Tide
+כוננות מיידית
+Crimson Tide
+1995   <item><link>http://s1.sratim.tv/movie/HD/1080/1232.mp4</link><thumbnail>http://static.sratim.tv/movies/1232.jpg</thumbnail><title>[B][COLOR coral]מלכודת זמן[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Time Trap 
+מלכודת זמן
+Time Trap
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/1233.mp4</link><thumbnail>http://static.sratim.tv/movies/1233.jpg</thumbnail><title>[B][COLOR coral]שהאזאם[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Shazam
+שהאזאם
+Shazam
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1235.mp4</link><thumbnail>http://static.sratim.tv/movies/1235.jpg</thumbnail><title>[B][COLOR coral]סרט לגו 2 :החלק השני[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>The Lego Movie 2: The Second Part
+סרט לגו 2 :החלק השני
+The Lego Movie 2: The Second Part
+2019   <item><link>http://s1.sratim.tv/movie/HD/1080/1236.mp4</link><thumbnail>http://static.sratim.tv/movies/1236.jpg</thumbnail><title>[B][COLOR coral]התנקשות [COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Assassination
+התנקשות
+Assassination
+1987   <item><link>http://s1.sratim.tv/movie/HD/1080/1242.mp4</link><thumbnail>http://static.sratim.tv/movies/1242.jpg</thumbnail><title>[B][COLOR coral]מורדים[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Renegades
+מורדים
+Renegades
+2017   <item><link>http://s1.sratim.tv/movie/HD/1080/1245.mp4</link><thumbnail>http://static.sratim.tv/movies/1245.jpg</thumbnail><title>[B][COLOR coral]קורבין נאש[COLOR aqua](FHD) [/COLOR][/B][/COLOR]</title></item>Corbin Nash
+קורבין נאש
+Corbin Nash
+
+<item><link>http://s1.sratim.tv/movie/SD/480/5.mp4</link><thumbnail>http://static.sratim.tv/movies/5.jpg</thumbnail><title>[B][COLOR coral]6 ימים[COLOR aqua](SD) [/COLOR][/B][/COLOR]</title></item>6 Days
+6 ימים
+6 Days
+
+******************************
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-(372) עמוד הבא [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://4.bp.blogspot.com/-gCEsod6obOo/Tlf4-88BY_I/AAAAAAAABLw/d9EfuMJ2vf4/s1600/blue-sillusion.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp3284238.png</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/------------------------AX-----------------------------01----------------.txt</link>
+<info>  סרטים בתרגום מובנה באיכות גבוהה...</info
+</dir>
