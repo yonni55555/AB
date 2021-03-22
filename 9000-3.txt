@@ -1,0 +1,51 @@
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים בקליק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/Movies/megalist.m3u</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סדרות בקליק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/TVShows/tvseries.m3u</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים HD  בקליק-בתמיכת SERVIICE IL-להורדת כתוביות [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/0-20-20-MOV-20-20-HD.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סדרות בקליק-בתמיכת SERVIICE IL-להורדת כתוביות [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/AB/blob/main/0-20-20-SER-20-20-HD.txt?raw=true</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]THE SPOT [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/live/thespot.m3u</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]SIMPLE PVR CHANNELS [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>http://www.midian.appboxes.co/wolfyB/newmidian/simple.m3u</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ספורט יוטיוב קלאסיקה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/4000-1.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
