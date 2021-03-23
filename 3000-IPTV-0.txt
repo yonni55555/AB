@@ -1,0 +1,481 @@
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ישראל [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://previews.123rf.com/images/tpabma/tpabma1602/tpabma160200030/51968022-the-israeli-flag-round-glossy-icon-isolated-on-white-background-.jpg</thumbnail><fanart>https://www.nicepng.com/png/detail/260-2604837_celebrate-israel-logo-state-of-israel-flag-round.png</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://pastebin.com/raw/Uifrg9vn</link></dir>
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ארגנטינה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/flag_argentina.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Argentina.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]עולם-תפזורת [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/World.m3u</link></dir>
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פלייליסט [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Playlist.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פלייליסט-2 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Playlist(3).m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]3-פרימיום [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Playlist(2).m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אוסף-2 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Compilation(3).m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אוסף [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Compilation.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אוסף-2 [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Compilation(4).m3u</link></dir>
+
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ערב [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://image.winudf.com/v2/image1/Y29tLnBhLmFyYWJpY2lwdHZfc2NyZWVuXzFfMTU4MTkzNjc1M18wNzc/screen-1.jpg?fakeurl=1&type=.jpg</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Arabe.m3u</link></dir>
+
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בחריין [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://www.pngrepo.com/download/225611/bahrain.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Bahrain.m3u</link></dir>
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טרנסטלקום [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://mir-iptv.com/wp-content/uploads/2018/08/iptv-ttk-300x300.jpg</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/TransTelecom.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]רוסיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://www.pngfind.com/pngs/m/141-1410921_russia-flag-logo-png-transparent-png.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Russia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קפריסין [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://image.flaticon.com/icons/png/512/630/630671.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Cyprus.m3u</link></dir>
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]צילה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://www.iconfinder.com/data/icons/national-flag-filled-outline/32/National_Flag_icon_filled_line_style_32px_for_iconfinder_Chile-512.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Chile.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אוסטרליה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/world-flags-circular-1/512/25-Australia_Australian_AUS_cross_kangaroo_jack_union_stars_country_flag_-512.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Australia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ארצות הברית [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://image.flaticon.com/icons/png/512/323/323310.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/USA.m3u</link></dir>
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ברזיל [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/a8/21/4a/a8214a66-f2f7-cae0-1689-b0408c94b2bb/source/512x512bb.jpg</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Brasil.m3u</link></dir>
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קונגו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Congo-icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Congo.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קרואטיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://images.vexels.com/media/users/3/140019/isolated/preview/556ce2d7b6868061af1be34206cd3b29-croatia-flag-badge-by-vexels.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Croatia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]דנמרק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn.iconscout.com/icon/premium/png-512-thumb/denmark-45-331579.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Denmark.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אנגליה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/81Qp4dzT-gL.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/UK.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]דומיניקני [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn.iconscout.com/icon/premium/png-512-thumb/dominican-12-898329.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Dominican.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אקוודור [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://i.pinimg.com/originals/4e/9c/d2/4e9cd2061e2eb311ba14781c34f9e5aa.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Ecuador.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אסטוניה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/510sQMiGm5L.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Estonia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פינלנד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4JrGLleC3dLwzKODtipuvX9NFG7Pcq8PXoQ&usqp=CAU</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Finland.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]צרפת [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/France.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]גרמניה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Germany.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]האיטי [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Haiti.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הונדורס [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Honduras.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הונקונג [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/HongKong.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]איסלנד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Iceland.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אינדונזיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Indonesia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]איטליה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Italy.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]יפן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Japan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קזאחסטן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Kazakhstan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מקסיקו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Mexico.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]רומניה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Romania.m3u</link></dir>
+
+
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סלבדור [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Salvador.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרביה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Serbia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אוקראינה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Ukraine.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קמרון [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Cameroon.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קומבדיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Cambodia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בולגריה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Bulgaria.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בוליביה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Bolivia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בלגיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Belgium.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בלרוב [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Belarus.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]בנגלדש [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Bangladesh.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]גאורגיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Georgia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מצלמת רשת [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Webcam.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הודו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/India.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הונגריה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Hungary.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]יוון [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Greece.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]גאנה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Ghana.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פולין [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Poland.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פלשיתנה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Palestine.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]עומן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Oman.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מוזמביק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Mozambique.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מונטנגרו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Montenegro.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מונגוליה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Mongolia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פקיסטן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Pakistan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פרו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Peru.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פורטוגל [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Portugal.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טורקיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Turkey.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סוריה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Syria.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]שוויץ [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Swiss.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]שוודיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Sweden.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סודן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Sudan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ספרד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Spain.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קוריאה הדרומית [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Korea.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סלובניה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Slovenia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סלובקיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Slovakia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סעודית [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Saudi.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אפריקה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Africa.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סנט קיטס [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/SaintKitts.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]רואנדה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Rwanda.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]נורבגיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Norway.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קטאר [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Qatar.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]פיליפינים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Philippines.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מקדוניה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Macedonia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ניו זילנד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/NewZealand.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרי לנקה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/SriLanka.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טיוואן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Taiwan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]הולנד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Netherlands.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]ניקרגואה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Nicaragua.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]UAE [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/UAE.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]טורקמניסטן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Turkmenistan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]עיראק [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Iraq.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מרוקו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Morocco.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]אירן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Iran.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]תאילנד [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Thailand.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]תוניסיה [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Tunisia.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]קירגיזסטן [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Kyrgyzstan.m3u</link></dir>
+
+<dir>
+<title>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]לטינו [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</title>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/8/9/e8932e4fee10663c47f48cc56bddc2e7_icon.png</thumbnail><fanart>https://img.favpng.com/5/23/22/world-m3u-television-channel-iptv-png-favpng-BRbiBSHjSrJFt6ary1GSNpFsE.jpg</fanart><info>ערוצי עולם זמניים</info>
+<link>plugin://plugin.video.playlistLoader/?mode=2&url=https://github.com/yonni55555/RP/raw/master/Latino.m3u</link></dir>
+
+
+
