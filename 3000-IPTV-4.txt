@@ -1,0 +1,175 @@
+------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+<dir>
+<title>[COLOR burlywood]***Big USA List***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/big-usa.m3u</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Big Canada List***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/big-ca.m3u</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Big UK List***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/big-uk.m3u</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+
+
+
+<dir>
+<title>[COLOR burlywood]***Music Videos***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/videomusic.m3u.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***QVC Shopping***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/qvc.m3u.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***US Weather Nation***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/weather.m3u.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Fluxus Pluto TV***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/pluto.tv.php</link>
+<info>Fluxus IPTV Channels List</info>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+
+<dir>
+<title>[COLOR burlywood]***Fluxus Faith***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/Fluxus-Faith.php</link>
+<info>Fluxus IPTV Channels List</info>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Fluxus CCTV***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/Fluxus-CCTV.php</link>
+<info>Fluxus IPTV Channels List</info>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+
+<dir>
+<title>[COLOR burlywood]***Lodge TV (English)***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/Fluxus-LodgeTV.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (USA + Canada)***[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/Fluxus-stratus-tv-usa-canada.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+
+
+
+
+<dir>
+<title>[COLOR burlywood]Local News - USA - IPTV[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/local.m3u.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]US Weather Nation[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://7of9.m3u.xyz/jen/7of9-cached/iptv/weather.m3u.php</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+<dir>
+<title>[COLOR burlywood]Inside Edition[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/UU9k-yiEpRHMNVOnOi_aQK8w/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]PBS NewsHour - Watch Live[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PLgawtcOBBjr9_d8zvTrH6FbG2cdxuCuDo/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]World News (Top Stories)[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PLr1-FC1l_JLFcq9r9Y3uFLkH8G37WmMRQ/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]National News (Top Stories)[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PLNjtpXOAJhQLmUEyuWw4hW_6gX8JMJUof/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]ABC (World News)[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PL5E6638EB9ECF2329/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]NBC News (Top stories)[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PL0tDb4jw6kPxZ7ZJtMk6gqiQIU-nMeaVS/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]Fox News (Latest Politics)[/COLOR]</title>
+<link>ignorme</link><jsonrpc>plugin://plugin.video.youtube/playlist/PLlTLHnxSVuIyeEZPBIQF_krewJkY2JSwi/?page=0</jsonrpc>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+
+<dir>
+<title>[COLOR burlywood]***Lodge TV (Spanish)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/WVyV87rg</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Lodge TV (Arabic)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/1BpnNp49</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (UK + Ireland)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/J1p1Uknd</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (Latino)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/GME4W6j4</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (Mexico)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/7QW9f4sz</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (Brazil + Portugal)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/A89MfK78</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (India + Pakistan)***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/xaqMHNqm</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+<dir>
+<title>[COLOR burlywood]***Stratus TV (Arab World )***Fixed In a Few Days[/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://pastebin.com/raw/t1HrSBbf</link>
+<thumbnail>https://images.emojiterra.com/twitter/v12/512px/1f4fa.png</thumbnail><fanart>https://images.wallpaperscraft.com/image/screen_tv_test_card_129823_1920x1080.jpg</fanart></dir>
+
+
+------
