@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>fuckOFF</layoutype>
+
+
+<dir>
+<name>[COLOR dodgerblue]¤ [/COLOR] [B][COLOR white]1Click Movies[/COLOR][/B] [COLOR dodgerblue] ¤[/COLOR]</name>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+<link>http://thechains24.com/GREENHAT/main_1click.xml</link>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]¤ [/COLOR] [B][COLOR white]1Click Tv Shows[/COLOR][/B] [COLOR dodgerblue] ¤[/COLOR]</name>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+<link>http://thechains24.com/GREENHAT/series9/test9.xml</link>
+</dir>
+
+<dir>
+<name>[COLOR dodgerblue]¤ [/COLOR] [B][COLOR white]Catch Up TV[/COLOR][/B] [COLOR dodgerblue] ¤[/COLOR]</name>
+<thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
+<fanart>https://bitbucket.org/threw/greenhat/raw/master/greenhat/green.jpg</fanart>
+<link>http://thechains24.com/GREENHAT/catchup.xml</link>
+</dir>
+
