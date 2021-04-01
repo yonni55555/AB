@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>ghost</layoutype>
+<dir>
+<title>[COLORwhite]SPORTS SCHEDULE[/COLOR]</title>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/sports%2Ctheboys.schedule.txt</link>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]SPORTS CHANNELS[/COLOR]</title>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/daddy.theboys.m3u.xml</link>
+<thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+
+
+
+
+
+
