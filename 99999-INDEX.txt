@@ -1,0 +1,6 @@
+<dir>
+<title>[COLOR aqua]1CLICK KIDS 1080P [/COLOR]</title>
+<link>PlayMedia("plugin://plugin.video.Serviceil/?url=http%3A%2F%2Fwww.dhakamovie.com%2Fserver1%2FMovies%2F1080p%2520HD%2FAnimation%2F&mode=35&name=%5BCOLOR+aqua%5D1CLICK+KIDS+1080P+%5B%2FCOLOR%5D")</link>
+<thumbnail>https://www.homeleisuredirect.com/Assets/HLD/Images/Scott/PP4/9-ball-break.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs71/i/2010/208/9/3/New_ID_yay_by_gg_Midian.jpg</fanart>
+</dir>
