@@ -1,0 +1,48 @@
+
+
+
+<plugin>
+<name>[COLOR ghostwhite][B]THE SPOT[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/thespot.m3u</link>
+<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]SIMPLE PVR CHANNELS[/B][/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/simple.m3u</link>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/pvr.iptvsimple/icon/icon.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR ghostwhite][B]LODGE TV[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/lodge.m3u</link>
+<thumbnail>https://cdn2.iconfinder.com/data/icons/hotel-set/64/Hotel-11-512.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR ghostwhite][B]LODGE SPANISH TV[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/lodgeSpanish.m3u</link>
+<thumbnail>http://isetenerife.com/wp-content/uploads/2015/10/spanish.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
+
+<plugin>
+<title>[COLOR ghostwhite][B]WORLD CHANNELS[/B][/COLOR]</title>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u</link>
+<thumbnail>https://1.bp.blogspot.com/-UNdkiDxgYww/XuKbb7KEdsI/AAAAAAAAAVM/FE8nIzC2MG4trgGBTJbqL3NkHI_lU0EJgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Iptv%2Bfree%2Bworld%2B%2Bm3u.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR ghostwhite][B]STRATUS TV USA-CANADA[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/Stratusus-canada.m3u</link>
+<thumbnail>https://2.bp.blogspot.com/-vJWOOl9BKsk/W1PVHGQ2tTI/AAAAAAAADiU/FBvxpknArXsp8wWq5rb4jptGgsFE2Y40gCLcBGAs/w1200-h630-p-k-no-nu/stratustv_promok.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+</plugin>
+
