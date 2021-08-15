@@ -1,5 +1,17 @@
 
+<dir>
+<name>[COLOR ghostwhite][B]ערוצים כללי[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/IPTVGH.txt</link>
+<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
+<dir>
+<name>[COLOR ghostwhite][B]פסק זמן[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
+<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
 <name>[COLOR ghostwhite][B]THE SPOT[/B][/COLOR]</name>
@@ -45,4 +57,3 @@
 <thumbnail>https://2.bp.blogspot.com/-vJWOOl9BKsk/W1PVHGQ2tTI/AAAAAAAADiU/FBvxpknArXsp8wWq5rb4jptGgsFE2Y40gCLcBGAs/w1200-h630-p-k-no-nu/stratustv_promok.png</thumbnail>
 <fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
