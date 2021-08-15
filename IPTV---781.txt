@@ -2,14 +2,14 @@
 <dir>
 <name>[COLOR ghostwhite][B]ערוצים כללי[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/IPTVGH.txt</link>
-<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
+<thumbnail>https://www.mivzaklive.co.il/wp-content/uploads/2018/09/WhatsApp-Image-2018-09-08-at-21.58.12.jpeg</thumbnail>
 <fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
 <name>[COLOR ghostwhite][B]פסק זמן[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
-<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
+<thumbnail>https://i.imgur.com/xoZLsG1.png</thumbnail>
 <fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
