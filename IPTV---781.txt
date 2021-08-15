@@ -14,6 +14,13 @@
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
+<name>[COLOR ghostwhite][B]VOD[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
+<thumbnail>https://pbs.twimg.com/profile_images/926091714087018496/JjVEasHR.jpg</thumbnail>
+<fanart>https://cms-static.wehaacdn.com/fit--pro-com/images/VideoDemand.3558.widea.0.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
+
+<dir>
 <name>[COLOR ghostwhite][B]THE SPOT[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/thespot.m3u</link>
 <thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
