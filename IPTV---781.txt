@@ -15,7 +15,7 @@
 
 <dir>
 <name>[COLOR ghostwhite][B]VOD[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/VOD-55.txt</link>
 <thumbnail>https://pbs.twimg.com/profile_images/926091714087018496/JjVEasHR.jpg</thumbnail>
 <fanart>https://cms-static.wehaacdn.com/fit--pro-com/images/VideoDemand.3558.widea.0.jpg</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
