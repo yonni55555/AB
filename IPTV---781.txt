@@ -8,73 +8,7 @@
 
 <dir>
 <name>[COLOR ghostwhite][B]PlutoTV[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
-<thumbnail>https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
-<fanart>https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]VOD[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/VOD-55.txt</link>
-<thumbnail>https://pbs.twimg.com/profile_images/926091714087018496/JjVEasHR.jpg</thumbnail>
-<fanart>https://cms-static.wehaacdn.com/fit--pro-com/images/VideoDemand.3558.widea.0.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]THE SPOT[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/thespot.m3u</link>
-<thumbnail>http://static.wixstatic.com/media/918325_c611cbef285a4479953ba85355128b3c.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<title>[COLOR ghostwhite][B]SIMPLE PVR CHANNELS[/B][/COLOR]</title>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/simple.m3u</link>
-<thumbnail>https://kodi.tv/images/addons/matrix/pvr.iptvsimple/icon.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-
-
-<dir>
-<name>[COLOR ghostwhite][B]LODGE TV[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/lodge.m3u</link>
-<thumbnail>https://cdn2.iconfinder.com/data/icons/hotel-set/64/Hotel-11-512.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]LODGE SPANISH TV[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/lodgeSpanish.m3u</link>
-<thumbnail>http://isetenerife.com/wp-content/uploads/2015/10/spanish.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-
-<dir>
-<title>[COLOR ghostwhite][B]WORLD CHANNELS[/B][/COLOR]</title>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u</link>
-<thumbnail>https://1.bp.blogspot.com/-UNdkiDxgYww/XuKbb7KEdsI/AAAAAAAAAVM/FE8nIzC2MG4trgGBTJbqL3NkHI_lU0EJgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Iptv%2Bfree%2Bworld%2B%2Bm3u.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]STRATUS TV USA-CANADA[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=http://www.midian.appboxes.co/wolfyB/newmidian/live/Stratusus-canada.m3u</link>
-<thumbnail>https://2.bp.blogspot.com/-vJWOOl9BKsk/W1PVHGQ2tTI/AAAAAAAADiU/FBvxpknArXsp8wWq5rb4jptGgsFE2Y40gCLcBGAs/w1200-h630-p-k-no-nu/stratustv_promok.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]ערוצים כללי[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/IPTVGH.txt</link>
-<thumbnail>https://www.mivzaklive.co.il/wp-content/uploads/2018/09/WhatsApp-Image-2018-09-08-at-21.58.12.jpeg</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
-<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
-
-<dir>
-<name>[COLOR ghostwhite][B]PlutoTV[/B][/COLOR]</name>
-<link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://i.mjh.nz/PlutoTV/all.m3u8</link>
 <thumbnail>https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
 <fanart>https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
