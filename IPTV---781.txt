@@ -7,10 +7,10 @@
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
-<name>[COLOR ghostwhite][B]פסק זמן[/B][/COLOR]</name>
+<name>[COLOR ghostwhite][B]PlutoTV[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/Pz.txt</link>
-<thumbnail>https://i.imgur.com/xoZLsG1.png</thumbnail>
-<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+<thumbnail>https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
+<fanart>https://deadline.com/wp-content/uploads/2020/01/pluto-logo.png</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
