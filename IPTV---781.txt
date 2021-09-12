@@ -14,6 +14,34 @@
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
+<name>[COLOR ghostwhite][B]Plex[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://i.mjh.nz/Plex/all.m3u8</link>
+<thumbnail>https://busstoptv.netsons.org/wp-content/uploads/2019/10/plex-iptv.png</thumbnail>
+<fanart>https://tonguideiptv.com/wp-content/uploads/2020/10/IPTV-sur-Plex.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]SamsungTV Plus[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://i.mjh.nz/SamsungTVPlus/all.m3u8</link>
+<thumbnail>https://archive.org/download/samsung-tv-plus/Samsung%20TV%20Plus.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-Wsyuc0UcvO4/YNpVRV55uPI/AAAAAAAAG_w/SSe6Y31oSTYf_W1LXoJDfii_TZCPaKg6ACLcBGAsYHQ/s1920/blog-thumb.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]Stirr[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://i.mjh.nz/Stirr/all.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1084982647858708481/tEy_6mQG_400x400.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-8_37eUwLxBQ/X4j5lmPqfZI/AAAAAAAAGUI/KUwXn6_O_gEpXx4wE8XZb_Lq21W4tbNMQCLcBGAsYHQ/w1200-h630-p-k-no-nu/blog-thumb.jpg</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]מדינות[/B][/COLOR]</name>
+<link>plugin://plugin.video.playlistloader/?mode=2&url=https://iptv-org.github.io/iptv/index.country.m3u</link>
+<thumbnail>https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
+<fanart>https://iptvrun.com/wp-content/uploads/2021/07/3e0bd45466b87933a353d07868ee5d5a.png</fanart>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
+
+<dir>
 <name>[COLOR ghostwhite][B]VOD[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=https://github.com/yonni55555/003/raw/main/VOD-55.txt</link>
 <thumbnail>https://pbs.twimg.com/profile_images/926091714087018496/JjVEasHR.jpg</thumbnail>
