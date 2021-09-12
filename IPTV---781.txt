@@ -37,8 +37,8 @@
 <dir>
 <name>[COLOR ghostwhite][B]מדינות[/B][/COLOR]</name>
 <link>plugin://plugin.video.playlistloader/?mode=2&url=https://iptv-org.github.io/iptv/index.country.m3u</link>
-<thumbnail>https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
-<fanart>https://iptvrun.com/wp-content/uploads/2021/07/3e0bd45466b87933a353d07868ee5d5a.png</fanart>
+<thumbnail>https://iptvrun.com/wp-content/uploads/2021/07/3e0bd45466b87933a353d07868ee5d5a.png</thumbnail>
+<fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info</dir>
 
 <dir>
