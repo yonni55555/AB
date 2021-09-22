@@ -115,6 +115,13 @@
 </dir>
 
 <dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים חדשים [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/472146489850875904/fsnQXT1m_400x400.jpeg</thumbnail><fanart>https://www.thefilmcatalogue.com/assets/company-logos/1287/NFI-NEW-LOGO.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/NM.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
 <name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]מגיק  (פופלרי) [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail><fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 <link>https://github.com/yonni55555/AB/raw/main/MDS.txt</link>
@@ -163,7 +170,6 @@
 <link>https://github.com/yonni55555/AB/raw/main/0-0-1-oscar-.txt</link>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
 </dir>
-
 
 
 
