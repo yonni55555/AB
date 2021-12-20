@@ -1,0 +1,164 @@
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>.Serviceil.2</layoutype>
+
+<dir><title>[COLOR aqua]---Master--Serviceil.2--- [/COLOR]</title><year>[B][COLOR aqua]•[/COLOR][/B][ B][COLOR לבן]סרטים בקליק [/COLOR][/B][B][COLOR aqua] • [/COLOR][/B]</year><link>plugin://plugin.video.Serviceil.2 /?all_w=%7b%7d&data=%20&dates=%20&description=Master&eng_name=%20&episode=%20&fanart=https://image.pngaaa.com/515/1170515-middle.png&fav_status=false&heb_name=%20https://image.pngaaa.com/515/1170515-middle.png&fav_status=false&heb_name=%20 på 0-0.txt&video_data=%7b%22rating%22%3a%20%220%22%2c%20%22episode%22%3a%200%2c%20%22title%22%3a%20%22%Serviceil.2%22%2c%20%22season%22%3a%200%2c%20%22TVshowtitle%22%3a%20%22%22%2c%20%22mediatype%22%3a%20%22movie%22%2c% 20%22עלילה%22%3a%20%22Master%22%2c%20%22OriginalTitle%22%3a%20%22%20%22%2c%20%22Tag%22%3a%20%22None%22%2c% 20%22id%22%3a%20%22%20%22%7d</link><thumbnail>https://i.redd.it/nftbdnc258g21.jpg</thumbnail></dir>
+
+
+
+---
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים (1960-2020) [/COLOR][/B][B][COLOR aqua] • [/COLOR] [/B]</name>
+<thumbnail>https://i.pinimg.com/736x/50/c0/4a/50c04a45dd2f9a5c3554d7bee7db7328.jpg</thumbnail>
+<fanart>https://wallpapercave.com/wp/wp7519534.jpg</fanart>
+<link>https://github.com/yonni55555/098/raw/main/0-1960-2020.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים קולנוע-ישראלי [/COLOR][/B][B][COLOR aqua] • [/COLOR] [/B]</name>
+<thumbnail>https://i2.wp.com/www.kol-noa.com/wp-content/uploads/2018/01/cropped-LOGO-KOLNOA-2018-PRO-002.png</thumbnail>
+<fanart>https://www.haaretz.co.il/st/c/prod/heb/2017/07/mustWatchMovies/images/main-image.jpg</fanart>
+<link>https://pastebin.com/raw/U31sLUAg</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-(סרטים אנגלית פופלרי)-HD [/COLOR][/B][B][COLOR aqua] • [/COLOR][/B]</name>
+<thumbnail>https://image.winudf.com/v2/image1/Y29tLnBlbGljdWxhcy5oZG1vdmllczIwMTlfc2NyZWVuXzBfMTU2ODY0NDQ3NV8wNDA/screen-0.jpg?fakeurl=1&type=bnail.com/> jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/-30-MOV-Ingles-00-.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]גוסט [/COLOR][/B][B][COLOR aqua] • [/COLOR][/B ]</name>
+<link>http://thechains24.com/GREENHAT/newm.NEW.xml</link>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail>
+<fanart>https://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]ילדים [/COLOR][/B][B][COLOR aqua] • [/COLOR][/B ]</name>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/flixhubkids.xml</link>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail>
+<fanart>https://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]אינדקס סרטים [/COLOR][/B][B][COLOR aqua] • [/COLOR][/ ב]</name>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/DIR5.xml</link>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail>
+<fanart>https://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]אינדקס (BOLLYWOOD) [/COLOR][/B][B][COLOR aqua] • [/COLOR] [/B]</name>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/Fkix.Bollywood.xml</link>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail>
+<fanart>https://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן] BNW סרטים [/COLOR][/B][B][COLOR aqua] • [/COLOR][/ ב]</name>
+<link>http://thechains24.com/GREENHAT/BnWMovies/Black.And.White.xml</link>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail>
+<fanart>https://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+</dir>
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]MIDIAN-CLICK (פופלרי) [/COLOR][/B][B][COLOR aqua] • [/ COLOR][/B]</name>
+<thumbnail>http://www.sozailab.jp/db_img/sozai/12518/fd0dc53d89c6e18c0ef31e2b60d276e1.png</thumbnail><fanart>http://fc07.deviantart.net/2/280190/2/280193/ /New_ID_yay_by_gg_Midian.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/9000-3.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]סרטים חדשים [/COLOR][/B][B][COLOR aqua] • [/COLOR][/ ב]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/472146489850875904/fsnQXT1m_400x400.jpeg</thumbnail><fanart>https://www.thefilmcatalogue.com/assets/company-logos/1287-LOGOFI-NEW- .jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/NM.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]משנים שונות [/COLOR][/B][B][COLOR aqua] • [/COLOR][/ ב]</name>
+<thumbnail>https://img.discogs.com/algBa3yhwAzcr9HanL8ot68wNxs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-741610 1568990164-6492.jpeg.jpg</thumbnail><fanart>https://i.ytimg.com/vi/YqNYrYUiMfg/maxresdefault.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/War-Movies.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR לבן]מגיק (פופלרי) [/COLOR][/B][B][COLOR aqua] • [/COLOR] [/B]</name>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail><fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/MDS.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים וסדרות דרך מנדו-אופטימיס- [/COLOR][/B][B][COLOR aqua] • [ /COLOR][/B]</name>
+<thumbnail>https: ://mytruemedia.com/wp-content/uploads/2020/01/Trending-TV-Series-in-CatMouse.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/2000-1.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-1(מעורב)-HD [/COLOR][/B][B][COLOR aqua] • [/COLOR][/B]</name>
+<thumbnail>https://image.freepik.com/free-vector/cinema-logo_23-2147503279.jpg?1</thumbnail><fanart>https://mytruemedia.com/wp-content/uploads/2020/01 /Trending-TV-Series-in-CatMouse.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/010-Movies-10.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים 250-Top [/COLOR][/B][B][COLOR aqua] • [/COLOR] [/B]</name>
+<thumbnail>https://i.redd.it/gkfygy4k3tr21.jpg</thumbnail>
+<fanart>https://appletv.nanopi.net/Images/Virtual_Directory_IMDB_Top_250_H.jpg</fanart>
+<link>https://github.com/yonni55555/TV-/raw/master/-250Top-.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-אוסקר-Top [/COLOR][/B][B][COLOR aqua] • [/COLOR ][/B]</name>
+<thumbnail>https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Oscar-icon.png</thumbnail>
+<fanart>https://appletv.nanopi.net/Images/Virtual_Directory_IMDB_Top_250_H.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/0-0-1-oscar-.txt</link>
+<info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
