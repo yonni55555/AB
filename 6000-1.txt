@@ -2,7 +2,7 @@
 <dir>
 <name>[COLOR FFffffffff][COLOR cyan][B]קטגוריות לסרטים[/B][/COLOR][/COLOR]</name>
 <thumbnail>http://twistednutz.xyz/XML/Icons/Main/Genres.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
-<link>http://thechains24.com/Ghost-Addon/ghostxmls/Chains.Team.Main.xml</link>
+<link>https://github.com/yonni55555/AB/raw/main/SSS.txt</link>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
