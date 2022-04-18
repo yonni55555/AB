@@ -1,5 +1,13 @@
 
 <dir>
+<name>[COLOR FFffffffff][COLOR cyan][B]קטגוריות לסרטים[/B][/COLOR][/COLOR]</name>
+<thumbnail>http://twistednutz.xyz/XML/Icons/Main/Genres.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+<link>http://thechains24.com/Ghost-Addon/ghostxmls/Chains.Team.Main.xml</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+
+<dir>
 <name>[COLOR FFffffffff][COLOR cyan][B]Chains.Team.MainION[/B][/COLOR][/COLOR]</name>
 <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/07/How-To-Install-Ghost-Kodi-Addon-2020.jpg</thumbnail><fanart>https://troypoint.com/wp-content/uploads/2020/07/ghost-kodi-addon.png</fanart>
 <link>http://thechains24.com/Ghost-Addon/ghostxmls/Chains.Team.Main.xml</link>
