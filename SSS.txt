@@ -1,0 +1,141 @@
+
+    <dir>
+    	<title>Action</title>
+    	<link>http://twistednutz.xyz/XML//Movies/Genres/Action.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Action.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Adventure</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Adventure.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Adventure.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Animation</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Animation.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Animation.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Comedy</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Comedy.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Comedy.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Crime</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Crime.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Crime.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+        <title>Documentaries</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Docos.xml</link>
+        <thumbnail>http://twistednutz.xyz/XML/Icons/Main/Docos.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Drama</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Drama.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Drama.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Family</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Family.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Family.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Fantasy</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Fantasy.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Fantasy.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>History</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/History.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/History.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Horror</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Horror.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Horror.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Music</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Music.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Music.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Musicals</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Musicals.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Musicals.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+
+    <dir>
+    	<title>Mystery</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Mystery.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Mystery.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Romance</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Romance.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Romance.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Science Fiction</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Scifi.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Sci-fi.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Sports</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Sports.xml</link>
+        <thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Sport.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Thriller</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Thriller.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Thriller.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>War</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/War.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/War.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+    
+    <dir>
+    	<title>Western</title>
+    	<link>http://twistednutz.xyz/XML/Movies/Genres/Western.xml</link>
+    	<thumbnail>http://twistednutz.xyz/XML/Icons/Movie/Genres/Western.png</thumbnail>
+    	<fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+    </dir>
+</xml>
