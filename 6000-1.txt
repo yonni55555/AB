@@ -9,14 +9,14 @@
 <dir>
 <name>[COLOR FFffffffff][COLOR cyan][B]סרטים כללי[/B][/COLOR][/COLOR]</name>
 <thumbnail>http://twistednutz.xyz/XML/Icons/Main/Genres.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
-<link>http://twistedbuilds.xyz/XML/Movies/movies.xml</link>
+<link>http://twistednutz.xyz/XML/Movies/Movies.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
 <dir>
 <name>[COLOR FFffffffff][COLOR cyan][B]סדרות כללי[/B][/COLOR][/COLOR]</name>
 <thumbnail>http://twistednutz.xyz/XML/Icons/Main/Genres.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
-<link>http://twistedbuilds.xyz/XML/TV/tv.xml</link>
+<link>http://twistedbuilds.xyz/XML/TV/Tv.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
@@ -30,7 +30,7 @@
 
 
 <dir>
-<name>[COLOR FFffffffff][COLOR ציאן][B]Asgard[/B][/COLOR][/COLOR]</name>
+<name>[COLOR FFffffffff][COLOR cyan][B]Asgard[/B][/COLOR][/COLOR]</name>
 <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail><fanart>https://koditips.com /wp-content/uploads/asgard-kodi-1024x576.jpg</fanart>
 <link>http://narcacist.com/asg/main.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
@@ -45,14 +45,14 @@
 
 
 <dir>
-<name>[COLOR FFffffffff][COLOR ציאן][B]Ghost[/B][/COLOR][/COLOR]</name>
+<name>[COLOR FFffffffff][COLOR cyan][B]Ghost[/B][/COLOR][/COLOR]</name>
 <thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost.png</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2 .jpg</fanart>
 <link>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/main2.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
 <dir>
-<name>[COLOR FFffffffff][COLOR ציאן][B]שידורים חוזרים של UFC[/B][/COLOR][/COLOR]</name>
+<name>[COLOR FFffffffff][COLOR cyan][B]שידורים חוזרים של UFC[/B][/COLOR][/COLOR]</name>
 <thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ufc.png</thumbnail><fanart>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost2 .jpg</fanart>
 <link>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/ufc1.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
