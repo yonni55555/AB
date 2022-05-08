@@ -15,8 +15,8 @@
 
 <dir>
 <name>[COLOR FFffffffff][COLOR cyan][B]סדרות כללי[/B][/COLOR][/COLOR]</name>
-<thumbnail>http://twistednutz.xyz/XML/Icons/Main/Genres.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
-<link>http://twistedbuilds.xyz/XML/TV/Tv.xml</link>
+<thumbnail>http://twistednutz.xyz/XML/Icons/Main/TVshows.png</thumbnail><fanart>http://twistednutz.xyz/XML/Icons/Main/fanart.jpg</fanart>
+<link>http://twistednutz.xyz/XML/TV Shows/TV.xml</link>
 <info> הזמן שלכם מוגבל, אז אל תבזבז אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
