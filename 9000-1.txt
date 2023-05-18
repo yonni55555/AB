@@ -1,5 +1,6 @@
 
 
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>.Serviceil.2</layoutype>
@@ -36,6 +37,13 @@
 <name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-(סרטים אנגלית פופלרי)-HD [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
 <thumbnail>https://image.winudf.com/v2/image1/Y29tLnBlbGljdWxhcy5oZG1vdmllczIwMTlfc2NyZWVuXzBfMTU2ODY0NDQ3NV8wNDA/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail><fanart>https://wallpapercave.com/wp/ltg7wdw.jpg</fanart>
 <link>https://github.com/yonni55555/AB/raw/main/-30-MOV-Ingles-00-.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
+<dir>
+<name>[B][COLOR aqua]•[/COLOR][/B][B][COLOR white]סרטים-(סרטים אנגלית )-HD [/COLOR][/B][B][COLOR aqua] •  [/COLOR][/B]</name>
+<thumbnail>https://image.winudf.com/v2/image1/Y29tLnBlbGljdWxhcy5oZG1vdmllczIwMTlfc2NyZWVuXzBfMTU2ODY0NDQ3NV8wNDA/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail><fanart>https://wallpapercave.com/wp/ltg7wdw.jpg</fanart>
+<link>https://github.com/yonni55555/AB/raw/main/-30-MOV-Ingles-01-.txt</link>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
