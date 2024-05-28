@@ -6,6 +6,13 @@
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
 </dir>
 
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]רשימות מתעדכנות חדש[/COLOR]</name>
+<thumbnail>https://kodi.tv/images/addons/matrix/pvr.iptvsimple/icon.png</thumbnail><fanart>https://martech.org/wp-content/uploads/2014/08/tv-video-ss-1920.jpg</fanart>
+<link>https://raw.githubusercontent.com/yonni55555/777/master/9999999.txt</link>
+<info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
+</dir>
+
 
 
 <dir>
@@ -137,6 +144,12 @@
 <link>https://github.com/yonni55555/AB/raw/main/3000-IPTV-4.txt</link>
 <info>  הזמן שלכם מוגבל, אז אל תבזבזו אותו בלחיות חיים של מישהו אחר.</info
 </dir>
+
+
+
+
+
+
 
 
 
